@@ -1,0 +1,2395 @@
+
+C:\python>python final.py
+Image  Receipt_0.jpg  is processing
+Process is done
+Image  Receipt_1.jpg  is processing
+Process is done
+Image  Receipt_10.jpg  is processing
+Process is done
+Image  Receipt_100.jpg  is processing
+Process is done
+Image  Receipt_101.jpg  is processing
+Process is done
+Image  Receipt_102.jpg  is processing
+Process is done
+Image  Receipt_103.jpg  is processing
+Process is done
+Image  Receipt_104.jpg  is processing
+Process is done
+Image  Receipt_105.jpg  is processing
+Process is done
+Image  Receipt_106.jpg  is processing
+Process is done
+Image  Receipt_107.jpg  is processing
+Process is done
+Image  Receipt_108.jpg  is processing
+Process is done
+Image  Receipt_109.jpg  is processing
+Process is done
+Image  Receipt_11.jpg  is processing
+Process is done
+Image  Receipt_110.jpg  is processing
+Process is done
+Image  Receipt_111.jpg  is processing
+Process is done
+Image  Receipt_112.jpg  is processing
+Process is done
+Image  Receipt_113.jpg  is processing
+Process is done
+Image  Receipt_114.jpg  is processing
+Process is done
+Image  Receipt_115.jpg  is processing
+Process is done
+Image  Receipt_116.jpg  is processing
+Process is done
+Image  Receipt_117.jpg  is processing
+Process is done
+Image  Receipt_118.jpg  is processing
+Process is done
+Image  Receipt_119.jpg  is processing
+Process is done
+Image  Receipt_12.jpg  is processing
+Process is done
+Image  Receipt_120.jpg  is processing
+Process is done
+Image  Receipt_121.jpg  is processing
+Process is done
+Image  Receipt_122.jpg  is processing
+Process is done
+Image  Receipt_123.jpg  is processing
+Process is done
+Image  Receipt_124.jpg  is processing
+Process is done
+Image  Receipt_125.jpg  is processing
+Process is done
+Image  Receipt_126.jpg  is processing
+Process is done
+Image  Receipt_127.jpg  is processing
+Process is done
+Image  Receipt_128.jpg  is processing
+Process is done
+Image  Receipt_129.jpg  is processing
+Process is done
+Image  Receipt_13.jpg  is processing
+Process is done
+Image  Receipt_130.jpg  is processing
+Process is done
+Image  Receipt_131.jpg  is processing
+Process is done
+Image  Receipt_132.jpg  is processing
+Process is done
+Image  Receipt_133.jpg  is processing
+Process is done
+Image  Receipt_134.jpg  is processing
+Process is done
+Image  Receipt_135.jpg  is processing
+Process is done
+Image  Receipt_136.jpg  is processing
+Process is done
+Image  Receipt_137.jpg  is processing
+Process is done
+Image  Receipt_138.jpg  is processing
+Process is done
+Image  Receipt_139.jpg  is processing
+Process is done
+Image  Receipt_14.jpg  is processing
+Process is done
+Image  Receipt_140.jpg  is processing
+Process is done
+Image  Receipt_141.jpg  is processing
+Process is done
+Image  Receipt_142.jpg  is processing
+Process is done
+Image  Receipt_143.jpg  is processing
+Process is done
+Image  Receipt_144.jpg  is processing
+Process is done
+Image  Receipt_145.jpg  is processing
+Process is done
+Image  Receipt_146.jpg  is processing
+Process is done
+Image  Receipt_147.jpg  is processing
+Process is done
+Image  Receipt_148.jpg  is processing
+Process is done
+Image  Receipt_149.jpg  is processing
+Process is done
+Image  Receipt_15.jpg  is processing
+Process is done
+Image  Receipt_150.jpg  is processing
+Process is done
+Image  Receipt_151.jpg  is processing
+Process is done
+Image  Receipt_152.jpg  is processing
+Process is done
+Image  Receipt_153.jpg  is processing
+Process is done
+Image  Receipt_154.jpg  is processing
+Process is done
+Image  Receipt_155.jpg  is processing
+Process is done
+Image  Receipt_156.jpg  is processing
+Process is done
+Image  Receipt_157.jpg  is processing
+Process is done
+Image  Receipt_158.jpg  is processing
+Process is done
+Image  Receipt_159.jpg  is processing
+Process is done
+Image  Receipt_16.jpg  is processing
+Process is done
+Image  Receipt_160.jpg  is processing
+Process is done
+Image  Receipt_161.jpg  is processing
+Process is done
+Image  Receipt_162.jpg  is processing
+Process is done
+Image  Receipt_163.jpg  is processing
+Process is done
+Image  Receipt_164.jpg  is processing
+Process is done
+Image  Receipt_165.jpg  is processing
+Process is done
+Image  Receipt_166.jpg  is processing
+Process is done
+Image  Receipt_167.jpg  is processing
+Process is done
+Image  Receipt_168.jpg  is processing
+Process is done
+Image  Receipt_169.jpg  is processing
+Process is done
+Image  Receipt_17.jpg  is processing
+Process is done
+Image  Receipt_170.jpg  is processing
+Process is done
+Image  Receipt_171.jpg  is processing
+Process is done
+Image  Receipt_172.jpg  is processing
+Process is done
+Image  Receipt_173.jpg  is processing
+Process is done
+Image  Receipt_174.jpg  is processing
+Process is done
+Image  Receipt_175.jpg  is processing
+Process is done
+Image  Receipt_176.jpg  is processing
+Process is done
+Image  Receipt_177.jpg  is processing
+Process is done
+Image  Receipt_178.jpg  is processing
+Process is done
+Image  Receipt_179.jpg  is processing
+Process is done
+Image  Receipt_18.jpg  is processing
+Process is done
+Image  Receipt_180.jpg  is processing
+Process is done
+Image  Receipt_181.jpg  is processing
+Process is done
+Image  Receipt_182.jpg  is processing
+Process is done
+Image  Receipt_183.jpg  is processing
+Process is done
+Image  Receipt_184.jpg  is processing
+Process is done
+Image  Receipt_185.jpg  is processing
+Process is done
+Image  Receipt_186.jpg  is processing
+Process is done
+Image  Receipt_187.jpg  is processing
+Process is done
+Image  Receipt_188.jpg  is processing
+Process is done
+Image  Receipt_189.jpg  is processing
+Process is done
+Image  Receipt_19.jpg  is processing
+Process is done
+Image  Receipt_190.jpg  is processing
+Process is done
+Image  Receipt_191.jpg  is processing
+Process is done
+Image  Receipt_192.jpg  is processing
+Process is done
+Image  Receipt_193.jpg  is processing
+Process is done
+Image  Receipt_194.jpg  is processing
+Process is done
+Image  Receipt_195.jpg  is processing
+Process is done
+Image  Receipt_196.jpg  is processing
+Process is done
+Image  Receipt_197.jpg  is processing
+Process is done
+Image  Receipt_198.jpg  is processing
+Process is done
+Image  Receipt_199.jpg  is processing
+Process is done
+Image  Receipt_2.jpg  is processing
+Process is done
+Image  Receipt_20.jpg  is processing
+Process is done
+Image  Receipt_200.jpg  is processing
+Process is done
+Image  Receipt_201.jpg  is processing
+Process is done
+Image  Receipt_202.jpg  is processing
+Process is done
+Image  Receipt_203.jpg  is processing
+Process is done
+Image  Receipt_204.jpg  is processing
+Process is done
+Image  Receipt_205.jpg  is processing
+Process is done
+Image  Receipt_206.jpg  is processing
+Process is done
+Image  Receipt_207.jpg  is processing
+Process is done
+Image  Receipt_208.jpg  is processing
+Process is done
+Image  Receipt_209.jpg  is processing
+Process is done
+Image  Receipt_21.jpg  is processing
+Process is done
+Image  Receipt_210.jpg  is processing
+Process is done
+Image  Receipt_211.jpg  is processing
+Process is done
+Image  Receipt_212.jpg  is processing
+Process is done
+Image  Receipt_213.jpg  is processing
+Process is done
+Image  Receipt_214.jpg  is processing
+Process is done
+Image  Receipt_215.jpg  is processing
+Process is done
+Image  Receipt_216.jpg  is processing
+Process is done
+Image  Receipt_217.jpg  is processing
+Process is done
+Image  Receipt_218.jpg  is processing
+Process is done
+Image  Receipt_219.jpg  is processing
+Process is done
+Image  Receipt_22.jpg  is processing
+Process is done
+Image  Receipt_220.jpg  is processing
+Process is done
+Image  Receipt_221.jpg  is processing
+Process is done
+Image  Receipt_222.jpg  is processing
+Process is done
+Image  Receipt_223.jpg  is processing
+Process is done
+Image  Receipt_224.jpg  is processing
+Process is done
+Image  Receipt_225.jpg  is processing
+Process is done
+Image  Receipt_226.jpg  is processing
+Process is done
+Image  Receipt_227.jpg  is processing
+Process is done
+Image  Receipt_228.jpg  is processing
+Process is done
+Image  Receipt_229.jpg  is processing
+Process is done
+Image  Receipt_23.jpg  is processing
+Process is done
+Image  Receipt_230.jpg  is processing
+Process is done
+Image  Receipt_231.jpg  is processing
+Process is done
+Image  Receipt_232.jpg  is processing
+Process is done
+Image  Receipt_233.jpg  is processing
+Process is done
+Image  Receipt_234.jpg  is processing
+Process is done
+Image  Receipt_235.jpg  is processing
+Process is done
+Image  Receipt_236.jpg  is processing
+Process is done
+Image  Receipt_237.jpg  is processing
+Process is done
+Image  Receipt_238.jpg  is processing
+Process is done
+Image  Receipt_239.jpg  is processing
+Process is done
+Image  Receipt_24.jpg  is processing
+Process is done
+Image  Receipt_240.jpg  is processing
+Process is done
+Image  Receipt_241.jpg  is processing
+Process is done
+Image  Receipt_242.jpg  is processing
+Process is done
+Image  Receipt_243.jpg  is processing
+Process is done
+Image  Receipt_244.jpg  is processing
+Process is done
+Image  Receipt_245.jpg  is processing
+Process is done
+Image  Receipt_246.jpg  is processing
+Process is done
+Image  Receipt_247.jpg  is processing
+Process is done
+Image  Receipt_248.jpg  is processing
+Process is done
+Image  Receipt_249.jpg  is processing
+Process is done
+Image  Receipt_25.jpg  is processing
+Process is done
+Image  Receipt_250.jpg  is processing
+Process is done
+Image  Receipt_251.jpg  is processing
+Process is done
+Image  Receipt_252.jpg  is processing
+Process is done
+Image  Receipt_253.jpg  is processing
+Process is done
+Image  Receipt_254.jpg  is processing
+Process is done
+Image  Receipt_255.jpg  is processing
+Process is done
+Image  Receipt_256.jpg  is processing
+Process is done
+Image  Receipt_257.jpg  is processing
+Process is done
+Image  Receipt_258.jpg  is processing
+Process is done
+Image  Receipt_259.jpg  is processing
+Process is done
+Image  Receipt_26.jpg  is processing
+Process is done
+Image  Receipt_260.jpg  is processing
+Process is done
+Image  Receipt_261.jpg  is processing
+Process is done
+Image  Receipt_262.jpg  is processing
+Process is done
+Image  Receipt_263.jpg  is processing
+Process is done
+Image  Receipt_264.jpg  is processing
+Process is done
+Image  Receipt_265.jpg  is processing
+Process is done
+Image  Receipt_266.jpg  is processing
+Process is done
+Image  Receipt_267.jpg  is processing
+Process is done
+Image  Receipt_268.jpg  is processing
+Process is done
+Image  Receipt_269.jpg  is processing
+Process is done
+Image  Receipt_27.jpg  is processing
+Process is done
+Image  Receipt_270.jpg  is processing
+Process is done
+Image  Receipt_271.jpg  is processing
+Process is done
+Image  Receipt_272.jpg  is processing
+Process is done
+Image  Receipt_273.jpg  is processing
+Process is done
+Image  Receipt_274.jpg  is processing
+Process is done
+Image  Receipt_275.jpg  is processing
+Process is done
+Image  Receipt_276.jpg  is processing
+Process is done
+Image  Receipt_277.jpg  is processing
+Process is done
+Image  Receipt_278.jpg  is processing
+Process is done
+Image  Receipt_279.jpg  is processing
+Process is done
+Image  Receipt_28.jpg  is processing
+Process is done
+Image  Receipt_280.jpg  is processing
+Process is done
+Image  Receipt_281.jpg  is processing
+Process is done
+Image  Receipt_282.jpg  is processing
+Process is done
+Image  Receipt_283.jpg  is processing
+Process is done
+Image  Receipt_284.jpg  is processing
+Process is done
+Image  Receipt_285.jpg  is processing
+Process is done
+Image  Receipt_286.jpg  is processing
+Process is done
+Image  Receipt_287.jpg  is processing
+Process is done
+Image  Receipt_288.jpg  is processing
+Process is done
+Image  Receipt_289.jpg  is processing
+Process is done
+Image  Receipt_29.jpg  is processing
+Process is done
+Image  Receipt_290.jpg  is processing
+Process is done
+Image  Receipt_291.jpg  is processing
+Process is done
+Image  Receipt_292.jpg  is processing
+Process is done
+Image  Receipt_293.jpg  is processing
+Process is done
+Image  Receipt_294.jpg  is processing
+Process is done
+Image  Receipt_295.jpg  is processing
+Process is done
+Image  Receipt_296.jpg  is processing
+Process is done
+Image  Receipt_297.jpg  is processing
+Process is done
+Image  Receipt_298.jpg  is processing
+Process is done
+Image  Receipt_299.jpg  is processing
+Process is done
+Image  Receipt_3.jpg  is processing
+Process is done
+Image  Receipt_30.jpg  is processing
+Process is done
+Image  Receipt_300.jpg  is processing
+Process is done
+Image  Receipt_301.jpg  is processing
+Process is done
+Image  Receipt_302.jpg  is processing
+Process is done
+Image  Receipt_303.jpg  is processing
+Process is done
+Image  Receipt_304.jpg  is processing
+Process is done
+Image  Receipt_305.jpg  is processing
+Process is done
+Image  Receipt_306.jpg  is processing
+Process is done
+Image  Receipt_307.jpg  is processing
+Process is done
+Image  Receipt_308.jpg  is processing
+Process is done
+Image  Receipt_309.jpg  is processing
+Process is done
+Image  Receipt_31.jpg  is processing
+Process is done
+Image  Receipt_310.jpg  is processing
+Process is done
+Image  Receipt_311.jpg  is processing
+Process is done
+Image  Receipt_312.jpg  is processing
+Process is done
+Image  Receipt_313.jpg  is processing
+Process is done
+Image  Receipt_314.jpg  is processing
+Process is done
+Image  Receipt_315.jpg  is processing
+Process is done
+Image  Receipt_316.jpg  is processing
+Process is done
+Image  Receipt_317.jpg  is processing
+Process is done
+Image  Receipt_318.jpg  is processing
+Process is done
+Image  Receipt_319.jpg  is processing
+Process is done
+Image  Receipt_32.jpg  is processing
+Process is done
+Image  Receipt_320.jpg  is processing
+Process is done
+Image  Receipt_321.jpg  is processing
+Process is done
+Image  Receipt_322.jpg  is processing
+Process is done
+Image  Receipt_323.jpg  is processing
+Process is done
+Image  Receipt_324.jpg  is processing
+Process is done
+Image  Receipt_325.jpg  is processing
+Process is done
+Image  Receipt_326.jpg  is processing
+Process is done
+Image  Receipt_327.jpg  is processing
+Process is done
+Image  Receipt_328.jpg  is processing
+Process is done
+Image  Receipt_329.jpg  is processing
+Process is done
+Image  Receipt_33.jpg  is processing
+Process is done
+Image  Receipt_330.jpg  is processing
+Process is done
+Image  Receipt_331.jpg  is processing
+Process is done
+Image  Receipt_332.jpg  is processing
+Process is done
+Image  Receipt_333.jpg  is processing
+Process is done
+Image  Receipt_334.jpg  is processing
+Process is done
+Image  Receipt_335.jpg  is processing
+Process is done
+Image  Receipt_336.jpg  is processing
+Process is done
+Image  Receipt_337.jpg  is processing
+Process is done
+Image  Receipt_338.jpg  is processing
+Process is done
+Image  Receipt_339.jpg  is processing
+Process is done
+Image  Receipt_34.jpg  is processing
+Process is done
+Image  Receipt_340.jpg  is processing
+Process is done
+Image  Receipt_341.jpg  is processing
+Process is done
+Image  Receipt_342.jpg  is processing
+Process is done
+Image  Receipt_343.jpg  is processing
+Process is done
+Image  Receipt_344.jpg  is processing
+Process is done
+Image  Receipt_345.jpg  is processing
+Process is done
+Image  Receipt_346.jpg  is processing
+Process is done
+Image  Receipt_347.jpg  is processing
+Process is done
+Image  Receipt_348.jpg  is processing
+Process is done
+Image  Receipt_349.jpg  is processing
+Process is done
+Image  Receipt_35.jpg  is processing
+Process is done
+Image  Receipt_350.jpg  is processing
+Process is done
+Image  Receipt_351.jpg  is processing
+Process is done
+Image  Receipt_352.jpg  is processing
+Process is done
+Image  Receipt_353.jpg  is processing
+Process is done
+Image  Receipt_354.jpg  is processing
+Process is done
+Image  Receipt_355.jpg  is processing
+Process is done
+Image  Receipt_356.jpg  is processing
+Process is done
+Image  Receipt_357.jpg  is processing
+Process is done
+Image  Receipt_358.jpg  is processing
+Process is done
+Image  Receipt_359.jpg  is processing
+Process is done
+Image  Receipt_36.jpg  is processing
+Process is done
+Image  Receipt_360.jpg  is processing
+Process is done
+Image  Receipt_361.jpg  is processing
+Process is done
+Image  Receipt_362.jpg  is processing
+Process is done
+Image  Receipt_363.jpg  is processing
+Process is done
+Image  Receipt_364.jpg  is processing
+Process is done
+Image  Receipt_365.jpg  is processing
+Process is done
+Image  Receipt_366.jpg  is processing
+Process is done
+Image  Receipt_367.jpg  is processing
+Process is done
+Image  Receipt_368.jpg  is processing
+Process is done
+Image  Receipt_369.jpg  is processing
+Process is done
+Image  Receipt_37.jpg  is processing
+Process is done
+Image  Receipt_370.jpg  is processing
+Process is done
+Image  Receipt_371.jpg  is processing
+Process is done
+Image  Receipt_372.jpg  is processing
+Process is done
+Image  Receipt_373.jpg  is processing
+Process is done
+Image  Receipt_374.jpg  is processing
+Process is done
+Image  Receipt_375.jpg  is processing
+Process is done
+Image  Receipt_376.jpg  is processing
+Process is done
+Image  Receipt_377.jpg  is processing
+Process is done
+Image  Receipt_378.jpg  is processing
+Process is done
+Image  Receipt_379.jpg  is processing
+Process is done
+Image  Receipt_38.jpg  is processing
+Process is done
+Image  Receipt_380.jpg  is processing
+Process is done
+Image  Receipt_381.jpg  is processing
+Process is done
+Image  Receipt_382.jpg  is processing
+Process is done
+Image  Receipt_383.jpg  is processing
+Process is done
+Image  Receipt_384.jpg  is processing
+Process is done
+Image  Receipt_385.jpg  is processing
+Process is done
+Image  Receipt_386.jpg  is processing
+Process is done
+Image  Receipt_387.jpg  is processing
+Process is done
+Image  Receipt_388.jpg  is processing
+Process is done
+Image  Receipt_389.jpg  is processing
+Process is done
+Image  Receipt_39.jpg  is processing
+Process is done
+Image  Receipt_390.jpg  is processing
+Process is done
+Image  Receipt_391.jpg  is processing
+Process is done
+Image  Receipt_392.jpg  is processing
+Process is done
+Image  Receipt_393.jpg  is processing
+Process is done
+Image  Receipt_394.jpg  is processing
+Process is done
+Image  Receipt_395.jpg  is processing
+Process is done
+Image  Receipt_396.jpg  is processing
+Process is done
+Image  Receipt_397.jpg  is processing
+Process is done
+Image  Receipt_398.jpg  is processing
+Process is done
+Image  Receipt_399.jpg  is processing
+Process is done
+Image  Receipt_4.jpg  is processing
+Process is done
+Image  Receipt_40.jpg  is processing
+Process is done
+Image  Receipt_400.jpg  is processing
+Process is done
+Image  Receipt_401.jpg  is processing
+Process is done
+Image  Receipt_402.jpg  is processing
+Process is done
+Image  Receipt_403.jpg  is processing
+Process is done
+Image  Receipt_404.jpg  is processing
+Process is done
+Image  Receipt_405.jpg  is processing
+Process is done
+Image  Receipt_406.jpg  is processing
+Process is done
+Image  Receipt_407.jpg  is processing
+Process is done
+Image  Receipt_408.jpg  is processing
+Process is done
+Image  Receipt_409.jpg  is processing
+Process is done
+Image  Receipt_41.jpg  is processing
+Process is done
+Image  Receipt_410.jpg  is processing
+Process is done
+Image  Receipt_411.jpg  is processing
+Process is done
+Image  Receipt_412.jpg  is processing
+Process is done
+Image  Receipt_413.jpg  is processing
+Process is done
+Image  Receipt_414.jpg  is processing
+Process is done
+Image  Receipt_415.jpg  is processing
+Process is done
+Image  Receipt_416.jpg  is processing
+Process is done
+Image  Receipt_417.jpg  is processing
+Process is done
+Image  Receipt_418.jpg  is processing
+Process is done
+Image  Receipt_419.jpg  is processing
+Process is done
+Image  Receipt_42.jpg  is processing
+Process is done
+Image  Receipt_420.jpg  is processing
+Process is done
+Image  Receipt_421.jpg  is processing
+Process is done
+Image  Receipt_422.jpg  is processing
+Process is done
+Image  Receipt_423.jpg  is processing
+Process is done
+Image  Receipt_424.jpg  is processing
+Process is done
+Image  Receipt_425.jpg  is processing
+Process is done
+Image  Receipt_426.jpg  is processing
+Process is done
+Image  Receipt_427.jpg  is processing
+Process is done
+Image  Receipt_428.jpg  is processing
+Process is done
+Image  Receipt_429.jpg  is processing
+Process is done
+Image  Receipt_43.jpg  is processing
+Process is done
+Image  Receipt_430.jpg  is processing
+Process is done
+Image  Receipt_431.jpg  is processing
+Process is done
+Image  Receipt_432.jpg  is processing
+Process is done
+Image  Receipt_433.jpg  is processing
+Process is done
+Image  Receipt_434.jpg  is processing
+Process is done
+Image  Receipt_435.jpg  is processing
+Process is done
+Image  Receipt_436.jpg  is processing
+Process is done
+Image  Receipt_437.jpg  is processing
+Process is done
+Image  Receipt_438.jpg  is processing
+Process is done
+Image  Receipt_439.jpg  is processing
+Process is done
+Image  Receipt_44.jpg  is processing
+Process is done
+Image  Receipt_440.jpg  is processing
+Process is done
+Image  Receipt_441.jpg  is processing
+Process is done
+Image  Receipt_442.jpg  is processing
+Process is done
+Image  Receipt_443.jpg  is processing
+Process is done
+Image  Receipt_444.jpg  is processing
+Process is done
+Image  Receipt_445.jpg  is processing
+Process is done
+Image  Receipt_446.jpg  is processing
+Process is done
+Image  Receipt_447.jpg  is processing
+Process is done
+Image  Receipt_448.jpg  is processing
+Process is done
+Image  Receipt_449.jpg  is processing
+Process is done
+Image  Receipt_45.jpg  is processing
+Process is done
+Image  Receipt_450.jpg  is processing
+Process is done
+Image  Receipt_451.jpg  is processing
+Process is done
+Image  Receipt_452.jpg  is processing
+Process is done
+Image  Receipt_453.jpg  is processing
+Process is done
+Image  Receipt_454.jpg  is processing
+Process is done
+Image  Receipt_455.jpg  is processing
+Process is done
+Image  Receipt_456.jpg  is processing
+Process is done
+Image  Receipt_457.jpg  is processing
+Process is done
+Image  Receipt_458.jpg  is processing
+Process is done
+Image  Receipt_459.jpg  is processing
+Process is done
+Image  Receipt_46.jpg  is processing
+Process is done
+Image  Receipt_460.jpg  is processing
+Process is done
+Image  Receipt_461.jpg  is processing
+Process is done
+Image  Receipt_462.jpg  is processing
+Process is done
+Image  Receipt_463.jpg  is processing
+Process is done
+Image  Receipt_464.jpg  is processing
+Process is done
+Image  Receipt_465.jpg  is processing
+Process is done
+Image  Receipt_466.jpg  is processing
+Process is done
+Image  Receipt_467.jpg  is processing
+Process is done
+Image  Receipt_468.jpg  is processing
+Process is done
+Image  Receipt_469.jpg  is processing
+Process is done
+Image  Receipt_47.jpg  is processing
+Process is done
+Image  Receipt_470.jpg  is processing
+Process is done
+Image  Receipt_471.jpg  is processing
+Process is done
+Image  Receipt_472.jpg  is processing
+Process is done
+Image  Receipt_473.jpg  is processing
+Process is done
+Image  Receipt_474.jpg  is processing
+Process is done
+Image  Receipt_475.jpg  is processing
+Process is done
+Image  Receipt_476.jpg  is processing
+Process is done
+Image  Receipt_477.jpg  is processing
+Process is done
+Image  Receipt_478.jpg  is processing
+Process is done
+Image  Receipt_479.jpg  is processing
+Process is done
+Image  Receipt_48.jpg  is processing
+Process is done
+Image  Receipt_480.jpg  is processing
+Process is done
+Image  Receipt_481.jpg  is processing
+Process is done
+Image  Receipt_482.jpg  is processing
+Process is done
+Image  Receipt_483.jpg  is processing
+Process is done
+Image  Receipt_484.jpg  is processing
+Process is done
+Image  Receipt_485.jpg  is processing
+Process is done
+Image  Receipt_486.jpg  is processing
+Process is done
+Image  Receipt_487.jpg  is processing
+Process is done
+Image  Receipt_488.jpg  is processing
+Process is done
+Image  Receipt_489.jpg  is processing
+Process is done
+Image  Receipt_49.jpg  is processing
+Process is done
+Image  Receipt_490.jpg  is processing
+Process is done
+Image  Receipt_491.jpg  is processing
+Process is done
+Image  Receipt_492.jpg  is processing
+Process is done
+Image  Receipt_493.jpg  is processing
+Process is done
+Image  Receipt_494.jpg  is processing
+Process is done
+Image  Receipt_495.jpg  is processing
+Process is done
+Image  Receipt_496.jpg  is processing
+Process is done
+Image  Receipt_497.jpg  is processing
+Process is done
+Image  Receipt_498.jpg  is processing
+Process is done
+Image  Receipt_499.jpg  is processing
+Process is done
+Image  Receipt_5.jpg  is processing
+Process is done
+Image  Receipt_50.jpg  is processing
+Process is done
+Image  Receipt_500.jpg  is processing
+Process is done
+Image  Receipt_501.jpg  is processing
+Process is done
+Image  Receipt_502.jpg  is processing
+Process is done
+Image  Receipt_503.jpg  is processing
+Process is done
+Image  Receipt_504.jpg  is processing
+Process is done
+Image  Receipt_505.jpg  is processing
+Process is done
+Image  Receipt_506.jpg  is processing
+Process is done
+Image  Receipt_507.jpg  is processing
+Process is done
+Image  Receipt_508.jpg  is processing
+Process is done
+Image  Receipt_509.jpg  is processing
+Process is done
+Image  Receipt_51.jpg  is processing
+Process is done
+Image  Receipt_510.jpg  is processing
+Process is done
+Image  Receipt_511.jpg  is processing
+Process is done
+Image  Receipt_512.jpg  is processing
+Process is done
+Image  Receipt_513.jpg  is processing
+Process is done
+Image  Receipt_514.jpg  is processing
+Process is done
+Image  Receipt_515.jpg  is processing
+Process is done
+Image  Receipt_516.jpg  is processing
+Process is done
+Image  Receipt_517.jpg  is processing
+Process is done
+Image  Receipt_518.jpg  is processing
+Process is done
+Image  Receipt_519.jpg  is processing
+Process is done
+Image  Receipt_52.jpg  is processing
+Process is done
+Image  Receipt_520.jpg  is processing
+Process is done
+Image  Receipt_521.jpg  is processing
+Process is done
+Image  Receipt_522.jpg  is processing
+Process is done
+Image  Receipt_523.jpg  is processing
+Process is done
+Image  Receipt_524.jpg  is processing
+Process is done
+Image  Receipt_525.jpg  is processing
+Process is done
+Image  Receipt_526.jpg  is processing
+Process is done
+Image  Receipt_527.jpg  is processing
+Process is done
+Image  Receipt_528.jpg  is processing
+Process is done
+Image  Receipt_529.jpg  is processing
+Process is done
+Image  Receipt_53.jpg  is processing
+Process is done
+Image  Receipt_530.jpg  is processing
+Process is done
+Image  Receipt_531.jpg  is processing
+Process is done
+Image  Receipt_532.jpg  is processing
+Process is done
+Image  Receipt_533.jpg  is processing
+Process is done
+Image  Receipt_534.jpg  is processing
+Process is done
+Image  Receipt_535.jpg  is processing
+Process is done
+Image  Receipt_536.jpg  is processing
+Process is done
+Image  Receipt_537.jpg  is processing
+Process is done
+Image  Receipt_538.jpg  is processing
+Process is done
+Image  Receipt_539.jpg  is processing
+Process is done
+Image  Receipt_54.jpg  is processing
+Process is done
+Image  Receipt_540.jpg  is processing
+Process is done
+Image  Receipt_541.jpg  is processing
+Process is done
+Image  Receipt_542.jpg  is processing
+Process is done
+Image  Receipt_543.jpg  is processing
+Process is done
+Image  Receipt_544.jpg  is processing
+Process is done
+Image  Receipt_545.jpg  is processing
+Process is done
+Image  Receipt_546.jpg  is processing
+Process is done
+Image  Receipt_547.jpg  is processing
+Process is done
+Image  Receipt_548.jpg  is processing
+Process is done
+Image  Receipt_549.jpg  is processing
+Process is done
+Image  Receipt_55.jpg  is processing
+Process is done
+Image  Receipt_550.jpg  is processing
+Process is done
+Image  Receipt_551.jpg  is processing
+Process is done
+Image  Receipt_552.jpg  is processing
+Process is done
+Image  Receipt_553.jpg  is processing
+Process is done
+Image  Receipt_554.jpg  is processing
+Process is done
+Image  Receipt_555.jpg  is processing
+Process is done
+Image  Receipt_556.jpg  is processing
+Process is done
+Image  Receipt_557.jpg  is processing
+Process is done
+Image  Receipt_558.jpg  is processing
+Process is done
+Image  Receipt_559.jpg  is processing
+Process is done
+Image  Receipt_56.jpg  is processing
+Process is done
+Image  Receipt_560.jpg  is processing
+Process is done
+Image  Receipt_561.jpg  is processing
+Process is done
+Image  Receipt_562.jpg  is processing
+Process is done
+Image  Receipt_563.jpg  is processing
+Process is done
+Image  Receipt_564.jpg  is processing
+Process is done
+Image  Receipt_565.jpg  is processing
+Process is done
+Image  Receipt_566.jpg  is processing
+Process is done
+Image  Receipt_567.jpg  is processing
+Process is done
+Image  Receipt_568.jpg  is processing
+Process is done
+Image  Receipt_569.jpg  is processing
+Process is done
+Image  Receipt_57.jpg  is processing
+Process is done
+Image  Receipt_570.jpg  is processing
+Process is done
+Image  Receipt_571.jpg  is processing
+Process is done
+Image  Receipt_572.jpg  is processing
+Process is done
+Image  Receipt_573.jpg  is processing
+Process is done
+Image  Receipt_574.jpg  is processing
+Process is done
+Image  Receipt_575.jpg  is processing
+Process is done
+Image  Receipt_576.jpg  is processing
+Process is done
+Image  Receipt_577.jpg  is processing
+Process is done
+Image  Receipt_578.jpg  is processing
+Process is done
+Image  Receipt_579.jpg  is processing
+Process is done
+Image  Receipt_58.jpg  is processing
+Process is done
+Image  Receipt_580.jpg  is processing
+Process is done
+Image  Receipt_581.jpg  is processing
+Process is done
+Image  Receipt_582.jpg  is processing
+Process is done
+Image  Receipt_583.jpg  is processing
+Process is done
+Image  Receipt_584.jpg  is processing
+Process is done
+Image  Receipt_585.jpg  is processing
+Process is done
+Image  Receipt_586.jpg  is processing
+Process is done
+Image  Receipt_587.jpg  is processing
+Process is done
+Image  Receipt_588.jpg  is processing
+Process is done
+Image  Receipt_589.jpg  is processing
+Process is done
+Image  Receipt_59.jpg  is processing
+Process is done
+Image  Receipt_590.jpg  is processing
+Process is done
+Image  Receipt_591.jpg  is processing
+Process is done
+Image  Receipt_592.jpg  is processing
+Process is done
+Image  Receipt_593.jpg  is processing
+Process is done
+Image  Receipt_594.jpg  is processing
+Process is done
+Image  Receipt_6.jpg  is processing
+Process is done
+Image  Receipt_60.jpg  is processing
+Process is done
+Image  Receipt_61.jpg  is processing
+Process is done
+Image  Receipt_62.jpg  is processing
+Process is done
+Image  Receipt_63.jpg  is processing
+Process is done
+Image  Receipt_64.jpg  is processing
+Process is done
+Image  Receipt_65.jpg  is processing
+Process is done
+Image  Receipt_66.jpg  is processing
+Process is done
+Image  Receipt_67.jpg  is processing
+Process is done
+Image  Receipt_68.jpg  is processing
+Process is done
+Image  Receipt_69.jpg  is processing
+Process is done
+Image  Receipt_7.jpg  is processing
+Process is done
+Image  Receipt_70.jpg  is processing
+Process is done
+Image  Receipt_71.jpg  is processing
+Process is done
+Image  Receipt_72.jpg  is processing
+Process is done
+Image  Receipt_73.jpg  is processing
+Process is done
+Image  Receipt_74.jpg  is processing
+Process is done
+Image  Receipt_75.jpg  is processing
+Process is done
+Image  Receipt_76.jpg  is processing
+Process is done
+Image  Receipt_77.jpg  is processing
+Process is done
+Image  Receipt_78.jpg  is processing
+Process is done
+Image  Receipt_79.jpg  is processing
+Process is done
+Image  Receipt_8.jpg  is processing
+Process is done
+Image  Receipt_80.jpg  is processing
+Process is done
+Image  Receipt_81.jpg  is processing
+Process is done
+Image  Receipt_82.jpg  is processing
+Process is done
+Image  Receipt_83.jpg  is processing
+Process is done
+Image  Receipt_84.jpg  is processing
+Process is done
+Image  Receipt_85.jpg  is processing
+Process is done
+Image  Receipt_86.jpg  is processing
+Process is done
+Image  Receipt_87.jpg  is processing
+Process is done
+Image  Receipt_88.jpg  is processing
+Process is done
+Image  Receipt_89.jpg  is processing
+Process is done
+Image  Receipt_9.jpg  is processing
+Process is done
+Image  Receipt_90.jpg  is processing
+Process is done
+Image  Receipt_91.jpg  is processing
+Process is done
+Image  Receipt_92.jpg  is processing
+Process is done
+Image  Receipt_93.jpg  is processing
+Process is done
+Image  Receipt_94.jpg  is processing
+Process is done
+Image  Receipt_95.jpg  is processing
+Process is done
+Image  Receipt_96.jpg  is processing
+Process is done
+Image  Receipt_97.jpg  is processing
+Process is done
+Image  Receipt_98.jpg  is processing
+Process is done
+Image  Receipt_99.jpg  is processing
+Process is done
+
+Files that contains dates which api recognized
+
+{'Receipt_0.jpg': ['2019-11-21 00:00:00', '2019-11-19 00:00:00', '2019-11-25 06:58:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_1.jpg': ['2019-07-25 00:00:00', '2019-11-13 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_10.jpg': ['2019-07-17 00:00:00', '2019-11-25 11:19:00', '2019-11-06 00:00:00']}
+
+{'Receipt_100.jpg': ['2019-11-01 00:00:00', '2019-11-09 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-25 00:00:00', '2019-11-03 00:00:00', '2019-11-20 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_101.jpg': ['2019-06-01 00:00:00', '2019-07-18 00:00:00', '2019-11-08 00:00:00', '2019-11-03 00:00:00', '2019-11-06 00:00:00', '2019-11-17 00:00:00', '2019-11-01 00:00:00', '2019-11-19 00:00:00', '2019-07-18 00:00:00']}
+
+{'Receipt_102.jpg': ['2019-07-08 00:00:00', '2019-11-25 05:02:00', '2019-11-06 00:00:00', '2019-11-12 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_103.jpg': ['2019-11-25 06:56:00', '2019-11-03 00:00:00']}
+
+{'Receipt_104.jpg': ['2019-11-25 12:05:00', '2019-11-03 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_105.jpg': ['2019-06-08 00:00:00', '2019-11-25 11:45:00', '2019-11-03 00:00:00', '2019-11-14 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_107.jpg': ['2019-11-13 00:00:00', '2019-11-10 00:00:00', '2019-11-25 13:20:00', '2019-08-30 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_108.jpg': ['2019-07-25 00:00:00', '2019-11-25 12:59:00', '2019-11-12 00:00:00']}
+
+{'Receipt_111.jpg': ['2019-07-15 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_116.jpg': ['2019-11-25 08:38:00', '2019-04-18 00:00:00']}
+
+{'Receipt_118.jpg': ['2019-11-25 09:40:00', '2019-03-01 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_119.jpg': ['2019-06-27 00:00:00']}
+
+{'Receipt_12.jpg': ['2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-05 00:00:00', '2019-11-17 00:00:00', '2019-11-15 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_120.jpg': ['2019-11-16 00:00:00', '2019-11-25 00:00:00', '2019-11-25 01:10:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_121.jpg': ['2019-11-21 00:00:00']}
+
+{'Receipt_122.jpg': ['2019-11-08 00:00:00', '2019-11-25 06:21:36']}
+
+{'Receipt_123.jpg': ['2019-06-01 00:00:00']}
+
+{'Receipt_124.jpg': ['2019-03-25 00:00:00', '2019-11-25 13:06:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_125.jpg': ['2019-05-31 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_127.jpg': ['2019-06-04 00:00:00', '2019-11-25 07:03:00', '2019-11-01 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_128.jpg': ['2019-07-22 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_129.jpg': ['2019-11-01 00:00:00', '2019-11-25 10:04:00', '2019-07-08 00:00:00']}
+
+{'Receipt_130.jpg': ['2019-11-25 12:44:00', '2019-06-11 00:00:00', '2019-11-11 00:00:00', '2019-11-23 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_131.jpg': ['2019-11-25 08:29:00', '2019-11-03 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_132.jpg': ['2019-04-05 00:00:00', '2019-11-02 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_133.jpg': ['2019-05-06 00:00:00', '2019-11-25 07:38:00']}
+
+{'Receipt_134.jpg': ['2019-02-02 00:00:00', '2019-11-25 02:14:00', '2019-11-25 03:03:00', '2019-11-05 00:00:00', '2019-11-09 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_135.jpg': ['2019-06-26 00:00:00', '2019-11-25 09:30:00', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-09 00:00:00', '2019-11-10 00:00:00', '2019-11-20 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_136.jpg': ['2019-02-01 00:00:00', '2019-11-09 00:00:00', '2019-11-19 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_137.jpg': ['2019-11-25 09:08:00', '2019-11-17 00:00:00', '2019-11-12 00:00:00', '2019-11-04 00:00:00', '2019-11-06 00:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_138.jpg': ['2019-11-25 10:17:00', '2019-11-08 00:00:00']}
+
+{'Receipt_139.jpg': ['2019-11-02 00:00:00', '2019-11-08 00:00:00', '2019-11-19 00:00:00']}
+
+{'Receipt_14.jpg': ['2019-11-21 00:00:00', '2019-11-07 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_140.jpg': ['2019-07-30 00:00:00', '2019-11-25 07:53:00', '2019-11-08 00:00:00', '2019-11-12 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_142.jpg': ['2019-11-25 05:29:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-01 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_143.jpg': ['2019-09-07 00:00:00', '2019-11-17 00:00:00', '2019-11-01 00:00:00', '2019-11-25 00:00:00', '2019-11-18 00:00:00']}
+
+{'Receipt_144.jpg': ['2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00', '2019-06-30 00:00:00']}
+
+{'Receipt_145.jpg': ['2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-08 00:00:00', '2019-03-09 00:00:00']}
+
+{'Receipt_146.jpg': ['2019-06-02 00:00:00']}
+
+{'Receipt_147.jpg': ['2019-11-04 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_149.jpg': ['2019-11-25 07:57:00', '2019-11-09 00:00:00', '2019-11-03 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_15.jpg': ['2019-06-07 00:00:00', '2019-11-25 12:37:00', '2019-11-08 00:00:00', '2019-11-07 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-21 00:00:00', '2019-11-01 00:00:00', '2019-11-23 00:00:00']}
+
+{'Receipt_150.jpg': ['2019-08-15 00:00:00', '2019-06-15 00:00:00']}
+
+{'Receipt_151.jpg': ['2019-11-04 00:00:00', '2019-11-13 00:00:00', '2019-11-04 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_152.jpg': ['2019-11-18 00:00:00', '2019-11-25 06:35:00', '2019-11-16 00:00:00', '2019-11-08 00:00:00', '2019-11-22 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_154.jpg': ['2019-07-25 00:00:00', '2019-11-25 12:05:00', '2019-07-25 00:00:00', '2019-11-25 01:19:00', '2019-11-14 00:00:00']}
+
+{'Receipt_155.jpg': ['2019-11-08 00:00:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_156.jpg': ['2019-05-07 00:00:00', '2019-11-25 10:03:56', '2019-11-06 00:00:00', '2019-11-16 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_157.jpg': ['2019-11-25 01:56:00', '2019-11-18 00:00:00', '2019-11-11 00:00:00', '2019-11-12 00:00:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-06-02 00:00:00', '2019-11-25 02:44:00']}
+
+{'Receipt_159.jpg': ['2019-06-05 00:00:00']}
+
+{'Receipt_16.jpg': ['2019-05-24 00:00:00', '2019-11-25 08:54:03']}
+
+{'Receipt_162.jpg': ['2019-11-25 08:47:00', '2019-11-12 00:00:00', '2019-11-17 00:00:00', '2019-11-11 00:00:00', '2019-11-10 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_163.jpg': ['2019-11-07 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_164.jpg': ['2019-11-08 00:00:00', '2019-11-16 00:00:00', '2019-11-09 00:00:00', '2019-11-16 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_165.jpg': ['2019-05-16 00:00:00', '2019-11-25 09:33:00', '2019-11-20 00:00:00', '2019-11-03 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_166.jpg': ['2019-10-07 14:41:00', '2019-01-08 00:00:00', '2019-11-10 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_167.jpg': ['2019-07-18 00:00:00', '2019-11-25 05:47:00', '2019-11-06 00:00:00', '2019-11-04 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_168.jpg': ['2019-06-04 00:00:00']}
+
+{'Receipt_169.jpg': ['2019-11-25 04:18:31', '2019-11-10 00:00:00', '2019-11-23 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_17.jpg': ['2019-11-25 12:03:14', '2019-11-12 00:00:00', '2019-11-03 00:00:00', '2019-11-14 00:00:00', '2019-11-01 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_171.jpg': ['2019-03-07 00:00:00']}
+
+{'Receipt_172.jpg': ['2019-11-09 00:00:00', '2019-11-08 00:00:00', '2019-11-11 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_173.jpg': ['2019-11-25 12:36:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_176.jpg': ['2019-11-25 01:00:17', '2019-11-05 00:00:00']}
+
+{'Receipt_177.jpg': ['2019-06-27 00:00:00', '2019-11-25 08:44:00', '2019-09-25 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_178.jpg': ['2019-11-02 00:00:00', '2019-02-07 00:00:00', '2019-11-25 11:44:00']}
+
+{'Receipt_179.jpg': ['2019-05-17 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_18.jpg': ['2019-07-20 00:00:00', '2019-11-15 00:00:00', '2019-11-10 00:00:00', '2019-11-04 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_180.jpg': ['2019-11-06 00:00:00', '2019-01-25 00:00:00', '2019-11-25 00:20:24']}
+
+{'Receipt_181.jpg': ['2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-05 00:00:00', '2019-11-17 00:00:00', '2019-11-15 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_182.jpg': ['2019-11-02 00:00:00']}
+
+{'Receipt_184.jpg': ['2019-02-22 00:00:00']}
+
+{'Receipt_185.jpg': ['2019-11-25 01:17:00', '2019-11-03 00:00:00', '2019-11-14 00:00:00', '2019-11-05 00:00:00', '2019-11-09 00:00:00', '2019-11-15 00:00:00', '2019-11-05 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_187.jpg': ['2019-11-25 02:52:00']}
+
+{'Receipt_188.jpg': ['2019-11-04 00:00:00', '2019-07-18 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00', '2019-11-18 00:00:00']}
+
+{'Receipt_19.jpg': ['2019-06-20 00:00:00', '2019-11-25 07:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00', '2019-11-08 00:00:00', '2019-11-06 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_190.jpg': ['2019-06-16 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_192.jpg': ['2019-04-26 00:00:00', '2019-11-01 00:00:00', '2019-11-14 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_193.jpg': ['2019-06-28 00:00:00', '2019-11-25 06:48:00']}
+
+{'Receipt_195.jpg': ['2019-07-16 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_198.jpg': ['2019-08-23 00:00:00', '2019-11-25 12:07:00', '2019-11-07 00:00:00', '2019-11-12 00:00:00', '2019-11-19 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_2.jpg': ['2019-11-25 05:38:00', '2019-11-13 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_200.jpg': ['2019-06-24 00:00:00', '2019-11-25 08:04:00', '2019-11-21 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_202.jpg': ['2019-06-18 00:00:00', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-02 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_203.jpg': ['2019-04-20 00:00:00', '2019-11-25 09:04:12', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_204.jpg': ['2019-11-25 11:47:00', '2019-11-25 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00', '2019-11-15 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_206.jpg': ['2019-11-25 04:42:00', '2019-11-06 00:00:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-11-10 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_207.jpg': ['2019-04-16 00:00:00']}
+
+{'Receipt_208.jpg': ['2019-11-14 00:00:00', '2019-11-18 00:00:00', '2019-11-10 00:00:00', '2019-11-02 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_209.jpg': ['2019-11-04 00:00:00', '2019-11-09 00:00:00', '2019-11-25 00:00:00']}
+
+{'Receipt_21.jpg': ['2019-11-08 00:00:00', '2019-11-08 00:00:00', '2019-05-22 00:00:00', '2019-11-25 13:19:00']}
+
+{'Receipt_210.jpg': ['2019-11-12 00:00:00', '2019-07-19 00:00:00', '2019-11-20 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_211.jpg': ['2019-11-25 10:33:29', '2019-07-15 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_212.jpg': ['2019-05-03 00:00:00', '2019-08-14 00:00:00', '2019-11-22 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_213.jpg': ['2019-11-13 00:00:00', '2019-11-14 00:00:00', '2019-11-04 00:00:00', '2019-11-13 00:00:00', '2019-11-03 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_215.jpg': ['2019-11-10 00:00:00', '2019-11-12 00:00:00', '2019-11-03 00:00:00', '2019-11-14 00:00:00', '2019-11-01 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_217.jpg': ['2019-11-10 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_218.jpg': ['2019-11-25 03:57:00', '2019-11-03 00:00:00', '2019-11-04 00:00:00', '2019-11-07 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_219.jpg': ['2019-01-06 00:00:00', '2019-11-02 00:00:00', '2019-11-09 00:00:00', '2019-11-02 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_220.jpg': ['2019-06-05 00:00:00', '2019-11-25 09:35:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-05 00:00:00', '2019-06-05 00:00:00']}
+
+{'Receipt_221.jpg': ['2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_222.jpg': ['2019-11-25 09:16:00', '2019-11-20 00:00:00', '2019-11-01 00:00:00', '2019-11-21 00:00:00']}
+
+{'Receipt_224.jpg': ['2019-06-17 00:00:00', '2019-11-25 11:25:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00', '2019-11-06 00:00:00', '2019-11-09 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_225.jpg': ['2019-07-18 00:00:00', '2019-11-25 10:54:00', '2019-01-02 00:00:00', '2019-01-02 00:00:00']}
+
+{'Receipt_226.jpg': ['2019-11-25 08:00:00', '2019-11-05 00:00:00', '2019-11-03 00:00:00', '2019-11-18 00:00:00', '2019-11-17 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_227.jpg': ['2019-11-25 08:35:38', '2019-11-04 00:00:00']}
+
+{'Receipt_228.jpg': ['2019-07-16 00:00:00', '2019-11-18 00:00:00', '2019-11-06 00:00:00', '2019-11-14 00:00:00', '2019-11-14 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_229.jpg': ['2019-06-08 00:00:00']}
+
+{'Receipt_232.jpg': ['2019-09-28 00:00:00', '2019-11-25 08:31:00', '2019-11-12 00:00:00', '2019-11-12 00:00:00', '2019-11-06 00:00:00', '2019-11-01 00:00:00', '2019-09-28 00:00:00']}
+
+{'Receipt_234.jpg': ['2019-11-25 03:28:00', '2019-11-20 00:00:00', '2019-11-16 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_235.jpg': ['2019-06-10 00:00:00', '2019-11-25 07:50:00', '2019-11-02 00:00:00']}
+
+{'Receipt_236.jpg': ['2019-11-25 13:22:00', '2019-01-03 00:00:00', '2019-11-15 00:00:00', '2019-11-04 00:00:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_237.jpg': ['2019-11-25 09:16:00', '2019-11-10 00:00:00', '2019-11-02 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_238.jpg': ['2019-06-25 00:00:00', '2019-07-17 00:00:00', '2019-11-12 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_239.jpg': ['2019-11-19 00:00:00', '2019-01-06 00:00:00', '2019-11-22 00:00:00', '2019-11-25 00:00:00', '2019-11-12 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-06 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_24.jpg': ['2019-11-10 00:00:00', '2019-11-06 00:00:00', '2019-06-28 00:00:00', '2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_242.jpg': ['2019-06-21 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_243.jpg': ['2019-11-10 00:00:00', '2019-11-09 00:00:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_244.jpg': ['2019-05-03 00:00:00', '2019-11-25 08:14:00', '2019-11-10 00:00:00', '2019-11-22 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_245.jpg': ['2019-06-14 00:00:00', '2019-11-25 11:23:32', '2019-11-04 00:00:00']}
+
+{'Receipt_246.jpg': ['2019-06-06 00:00:00', '2019-11-25 08:04:00', '2019-11-19 00:00:00', '2019-07-06 00:00:00', '2019-11-01 00:00:00', '2019-11-21 00:00:00']}
+
+{'Receipt_247.jpg': ['2019-05-08 00:00:00', '2019-11-25 11:53:00', '2019-11-25 12:52:00']}
+
+{'Receipt_248.jpg': ['2019-05-17 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_249.jpg': ['2019-05-19 00:00:00', '2019-11-25 11:38:00', '2019-11-08 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_25.jpg': ['2019-11-09 00:00:00', '2019-08-04 00:00:00', '2019-06-03 00:00:00', '2019-11-25 08:38:27']}
+
+{'Receipt_250.jpg': ['2019-05-18 00:00:00', '2019-11-25 12:25:00', '2019-11-15 00:00:00', '2019-11-08 00:00:00', '2019-11-18 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_252.jpg': ['2019-11-20 00:00:00', '2019-06-02 00:00:00']}
+
+{'Receipt_253.jpg': ['2019-07-19 00:00:00', '2019-11-25 04:16:00', '2019-11-20 00:00:00']}
+
+{'Receipt_254.jpg': ['2019-06-04 00:00:00', '2019-11-25 03:49:00', '2019-11-07 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_255.jpg': ['2019-07-10 00:00:00', '2019-11-25 07:47:00', '2019-11-02 00:00:00', '2019-11-09 00:00:00', '2019-11-02 00:00:00', '2019-11-23 00:00:00']}
+
+{'Receipt_257.jpg': ['2019-08-06 00:00:00', '2019-11-25 11:01:00', '2019-11-22 00:00:00']}
+
+{'Receipt_258.jpg': ['2019-11-22 00:00:00', '2019-06-24 00:00:00']}
+
+{'Receipt_259.jpg': ['2019-11-01 00:00:00']}
+
+{'Receipt_260.jpg': ['2019-11-18 00:00:00', '2019-09-02 00:00:00']}
+
+{'Receipt_261.jpg': ['2019-11-25 12:11:00', '2019-11-15 00:00:00', '2019-11-18 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_263.jpg': ['2019-05-05 00:00:00', '2019-11-25 06:52:57', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_264.jpg': ['2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-05 00:00:00', '2019-11-17 00:00:00', '2019-11-15 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_265.jpg': ['2019-11-25 00:22:00', '2019-05-29 00:00:00', '2019-11-22 00:00:00', '2019-11-12 00:00:00', '2019-11-16 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_266.jpg': ['2019-11-25 07:39:12']}
+
+{'Receipt_267.jpg': ['2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_268.jpg': ['2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-04 00:00:00', '2019-11-01 00:00:00', '2019-11-12 00:00:00', '2019-11-08 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_269.jpg': ['2019-11-04 00:00:00', '2019-11-06 00:00:00', '2019-11-06 00:00:00', '2019-11-07 00:00:00', '2019-11-25 00:00:00']}
+
+{'Receipt_27.jpg': ['2019-04-13 00:00:00', '2019-11-25 03:39:00', '2019-11-14 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_270.jpg': ['2019-11-25 02:03:00', '2019-04-19 00:00:00']}
+
+{'Receipt_271.jpg': ['2019-11-09 00:00:00', '2019-11-10 00:00:00', '2019-11-11 00:00:00', '2019-11-06 00:00:00', '2019-05-21 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_272.jpg': ['2019-06-23 00:00:00', '2019-11-25 06:05:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00', '2019-11-17 00:00:00', '2019-11-16 00:00:00', '2019-11-07 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_273.jpg': ['2019-06-25 00:00:00', '2019-11-25 09:23:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_275.jpg': ['2019-02-19 00:00:00', '2019-11-25 01:20:00', '2019-11-19 00:00:00']}
+
+{'Receipt_276.jpg': ['2019-11-12 00:00:00']}
+
+{'Receipt_277.jpg': ['2019-11-25 07:30:00', '2019-11-03 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_278.jpg': ['2019-11-23 00:00:00', '2019-11-25 00:00:00', '2019-11-25 02:33:00', '2019-11-12 00:00:00', '2019-11-12 00:00:00', '2019-11-24 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_279.jpg': ['2019-05-17 00:00:00', '2019-11-25 11:48:00', '2019-11-01 00:00:00']}
+
+{'Receipt_280.jpg': ['2019-07-19 00:00:00', '2019-11-25 04:49:30', '2019-11-10 00:00:00']}
+
+{'Receipt_282.jpg': ['2019-05-16 00:00:00', '2019-11-25 09:40:15', '2019-11-04 00:00:00']}
+
+{'Receipt_284.jpg': ['2019-06-27 00:00:00', '2019-11-25 12:12:00', '2019-11-07 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00', '2019-11-20 00:00:00', '2019-11-01 00:00:00', '2019-11-22 00:00:00']}
+
+{'Receipt_285.jpg': ['2019-11-25 10:16:00', '2019-11-05 00:00:00', '2019-11-03 00:00:00', '2019-11-14 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_286.jpg': ['2019-01-06 00:00:00', '2019-11-25 11:41:14']}
+
+{'Receipt_287.jpg': ['2019-11-25 12:49:00', '2019-11-25 12:48:00', '2019-11-02 00:00:00', '2019-11-08 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_289.jpg': ['2019-07-16 00:00:00', '2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-07 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_29.jpg': ['2019-11-10 00:00:00', '2019-11-10 00:00:00', '2019-06-28 00:00:00', '2019-11-25 02:16:34', '2019-11-01 00:00:00']}
+
+{'Receipt_290.jpg': ['2019-11-16 00:00:00', '2019-11-04 00:00:00', '2019-03-01 00:00:00']}
+
+{'Receipt_292.jpg': ['2019-11-01 00:00:00']}
+
+{'Receipt_293.jpg': ['2019-11-25 12:13:06', '2019-11-01 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_294.jpg': ['2019-07-10 00:00:00', '2019-11-25 12:10:00', '2019-11-07 00:00:00', '2019-11-04 00:00:00', '2019-11-11 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_295.jpg': ['2019-06-15 00:00:00', '2019-11-25 03:10:35', '2019-11-03 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_296.jpg': ['2019-06-21 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_297.jpg': ['2019-11-15 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_298.jpg': ['2019-11-23 00:00:00', '2019-11-11 00:00:00', '2019-11-04 00:00:00', '2019-11-01 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_299.jpg': ['2019-11-11 00:00:00', '2019-06-29 00:00:00']}
+
+{'Receipt_3.jpg': ['2019-10-06 00:00:00', '2019-11-17 00:00:00', '2019-11-18 00:00:00', '2019-11-12 00:00:00', '2019-11-10 00:00:00', '2019-11-06 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_301.jpg': ['2019-07-13 00:00:00', '2019-11-25 10:24:00']}
+
+{'Receipt_302.jpg': ['2019-07-26 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_303.jpg': ['2019-11-25 09:43:52']}
+
+{'Receipt_304.jpg': ['2019-06-07 00:00:00', '2019-11-25 10:32:00', '2019-11-04 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-09 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_305.jpg': ['2019-11-25 03:41:24', '2019-11-12 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_306.jpg': ['2019-01-21 00:00:00', '2019-11-25 08:56:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-11 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_307.jpg': ['2019-11-07 00:00:00', '2019-11-25 00:00:00', '2019-05-03 00:00:00', '2019-11-25 09:39:00']}
+
+{'Receipt_309.jpg': ['2019-05-23 00:00:00']}
+
+{'Receipt_31.jpg': ['2019-07-25 00:00:00', '2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_310.jpg': ['2019-07-19 00:00:00', '2019-11-25 02:23:00', '2019-11-04 00:00:00', '2019-11-07 00:00:00', '2019-11-03 00:00:00', '2019-11-09 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_311.jpg': ['2019-11-01 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_312.jpg': ['2019-11-15 00:00:00', '2019-05-15 00:00:00', '2019-11-25 12:58:00']}
+
+{'Receipt_313.jpg': ['2019-06-03 00:00:00', '2019-11-25 08:02:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00', '2019-07-25 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_314.jpg': ['2019-07-19 00:00:00', '2019-11-25 11:31:00', '2019-11-05 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_315.jpg': ['2019-11-25 06:53:00', '2019-11-23 00:00:00', '2019-11-06 00:00:00', '2019-11-24 00:00:00']}
+
+{'Receipt_316.jpg': ['2019-11-10 00:00:00', '2019-11-25 00:00:00', '2019-11-25 12:00:00', '2019-11-11 00:00:00', '2019-11-11 00:00:00', '2019-11-09 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_317.jpg': ['2019-06-18 00:00:00', '2019-11-25 12:11:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_318.jpg': ['2019-08-08 00:00:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00', '2019-08-08 00:00:00']}
+
+{'Receipt_319.jpg': ['2019-11-25 10:20:00', '2019-11-11 00:00:00', '2019-11-18 00:00:00', '2019-11-16 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00', '2019-11-15 00:00:00']}
+
+{'Receipt_32.jpg': ['2019-11-25 06:23:00', '2019-11-02 00:00:00', '2019-11-21 00:00:00', '2019-11-06 00:00:00', '2019-11-06 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_320.jpg': ['2019-11-04 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00', '2019-06-11 00:00:00', '2019-11-25 12:20:00']}
+
+{'Receipt_322.jpg': ['2019-03-17 00:00:00', '2019-11-25 05:39:00', '2019-11-12 00:00:00', '2019-11-08 00:00:00', '2019-11-14 00:00:00', '2019-11-10 00:00:00', '2019-11-03 00:00:00', '2019-11-18 00:00:00', '2019-11-06 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_324.jpg': ['2019-11-25 12:45:41', '2019-11-25 12:13:00', '2019-11-02 00:00:00', '2019-11-10 00:00:00', '2019-11-01 00:00:00', '2019-11-25 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_325.jpg': ['2019-11-25 06:30:31', '2019-11-05 00:00:00', '2019-11-04 00:00:00', '2019-11-10 00:00:00', '2019-11-11 00:00:00', '2019-11-20 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_326.jpg': ['2019-11-10 00:00:00', '2019-11-25 00:06:00', '2019-11-25 12:59:00', '2019-07-16 00:00:00', '2019-11-01 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_327.jpg': ['2019-11-01 00:00:00', '2019-06-19 00:00:00']}
+
+{'Receipt_328.jpg': ['2019-02-09 00:00:00', '2019-11-09 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-01-04 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_329.jpg': ['2019-11-02 00:00:00', '2019-11-10 00:00:00', '2019-02-23 00:00:00', '2019-11-25 12:14:00']}
+
+{'Receipt_330.jpg': ['2019-07-23 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_331.jpg': ['2019-07-13 00:00:00', '2019-11-25 02:59:34']}
+
+{'Receipt_332.jpg': ['2019-11-11 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_333.jpg': ['2019-07-24 00:00:00', '2019-11-25 09:36:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_334.jpg': ['2019-10-08 00:00:00', '2019-11-25 12:10:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-11-25 12:44:00', '2019-11-09 00:00:00']}
+
+{'Receipt_335.jpg': ['2019-11-25 01:02:00', '2019-11-02 00:00:00', '2019-11-11 00:00:00', '2019-11-04 00:00:00', '2019-11-19 00:00:00', '2019-11-01 00:00:00', '2019-11-20 00:00:00', '2019-11-08 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_336.jpg': ['2019-07-21 00:00:00', '2019-11-25 00:08:26']}
+
+{'Receipt_337.jpg': ['2019-07-15 00:00:00']}
+
+{'Receipt_338.jpg': ['2019-05-01 00:00:00', '2019-11-25 02:25:37', '2019-11-11 00:00:00', '2019-11-11 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_339.jpg': ['2019-04-19 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_34.jpg': ['2019-07-14 00:00:00', '2019-11-12 00:00:00', '2019-11-08 00:00:00', '2019-11-18 00:00:00', '2019-11-13 00:00:00', '2019-11-10 00:00:00', '2019-11-15 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_340.jpg': ['2019-11-09 00:00:00', '2019-11-02 00:00:00', '2019-11-12 00:00:00', '2019-11-13 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_342.jpg': ['2019-06-05 00:00:00', '2019-11-25 07:49:41', '2019-11-04 00:00:00']}
+
+{'Receipt_343.jpg': ['2019-11-05 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_344.jpg': ['2019-02-07 00:00:00', '2019-05-26 00:00:00']}
+
+{'Receipt_345.jpg': ['2019-11-09 00:00:00', '2019-11-25 00:00:00', '2019-11-22 00:00:00', '2019-01-02 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_346.jpg': ['2019-06-19 00:00:00', '2019-09-01 00:00:00']}
+
+{'Receipt_347.jpg': ['2019-06-26 00:00:00', '2019-11-25 05:41:27', '2019-11-02 00:00:00', '2019-11-22 00:00:00', '2019-11-25 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_348.jpg': ['2019-07-16 00:00:00', '2019-11-25 08:01:48']}
+
+{'Receipt_349.jpg': ['2019-11-10 00:00:00']}
+
+{'Receipt_35.jpg': ['2019-11-05 00:00:00', '2019-11-14 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_350.jpg': ['2019-11-24 00:00:00', '2019-11-25 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_351.jpg': ['2019-11-25 01:10:00', '2019-11-25 01:58:00', '2019-11-25 03:10:00']}
+
+{'Receipt_352.jpg': ['2019-11-25 12:30:00', '2019-11-10 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_353.jpg': ['2019-06-17 00:00:00', '2019-11-25 12:38:55']}
+
+{'Receipt_354.jpg': ['2019-03-25 00:00:00', '2019-03-01 00:00:00', '2019-11-25 01:31:00', '2019-11-13 00:00:00', '2019-11-13 00:00:00', '2019-11-01 00:00:00', '2019-11-16 00:00:00', '2019-11-16 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_355.jpg': ['2019-06-19 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_356.jpg': ['2019-11-25 05:48:07', '2019-11-10 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_357.jpg': ['2019-11-25 05:23:42', '2019-11-03 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_358.jpg': ['2019-11-02 00:00:00', '2019-06-06 00:00:00', '2019-11-25 10:34:00']}
+
+{'Receipt_359.jpg': ['2019-06-16 00:00:00', '2019-11-25 01:14:00']}
+
+{'Receipt_36.jpg': ['2019-06-27 00:00:00', '2019-11-25 04:40:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_361.jpg': ['2019-05-22 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_362.jpg': ['2019-11-09 00:00:00', '2019-11-25 11:23:00', '2019-03-12 00:00:00', '2019-11-25 00:00:00', '2019-11-25 00:00:00', '2019-11-22 00:00:00', '2019-11-18 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_363.jpg': ['2019-07-17 00:00:00']}
+
+{'Receipt_364.jpg': ['2019-11-08 00:00:00', '2019-11-10 00:00:00', '2019-11-11 00:00:00', '2019-11-08 00:00:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_365.jpg': ['2019-07-19 00:00:00']}
+
+{'Receipt_367.jpg': ['2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_369.jpg': ['2019-05-31 00:00:00', '2019-11-25 11:20:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00', '2019-11-06 00:00:00', '2019-11-01 00:00:00', '2019-11-19 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_37.jpg': ['2019-06-25 00:00:00', '2019-11-25 04:08:47', '2019-11-03 00:00:00']}
+
+{'Receipt_371.jpg': ['2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_372.jpg': ['2019-11-03 00:00:00', '2019-11-09 00:00:00', '2019-11-12 00:00:00', '2019-11-10 00:00:00', '2019-11-23 00:00:00', '2019-11-25 00:00:00']}
+
+{'Receipt_373.jpg': ['2019-11-19 00:00:00', '2019-11-25 03:33:00']}
+
+{'Receipt_374.jpg': ['2019-11-03 00:00:00', '2019-11-04 00:00:00', '2019-11-02 00:00:00', '2019-11-12 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_375.jpg': ['2019-07-05 00:00:00']}
+
+{'Receipt_376.jpg': ['2019-07-19 00:00:00']}
+
+{'Receipt_377.jpg': ['2019-06-07 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_378.jpg': ['2019-06-16 00:00:00', '2019-11-25 10:04:00', '2019-11-07 00:00:00', '2019-11-08 00:00:00', '2019-11-02 00:00:00', '2019-11-13 00:00:00', '2019-11-01 00:00:00', '2019-11-10 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_379.jpg': ['2019-11-24 00:00:00', '2019-05-07 00:00:00', '2019-11-01 00:00:00', '2019-11-20 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-04 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_38.jpg': ['2019-11-25 09:12:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_380.jpg': ['2019-11-25 12:46:00', '2019-11-10 00:00:00', '2019-11-21 00:00:00', '2019-11-05 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_381.jpg': ['2019-11-25 13:34:17']}
+
+{'Receipt_382.jpg': ['2019-11-25 03:08:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_383.jpg': ['2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-04 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-24 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_384.jpg': ['2019-11-01 00:00:00', '2019-11-04 00:00:00', '2019-11-06 00:00:00', '2019-11-02 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_385.jpg': ['2019-11-25 00:00:00', '2019-11-25 08:00:00', '2019-11-10 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_386.jpg': ['2019-06-28 00:00:00', '2019-11-25 05:36:00', '2019-11-08 00:00:00', '2019-11-01 00:00:00', '2019-11-03 00:00:00', '2019-11-13 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_387.jpg': ['2019-06-02 00:00:00', '2019-11-25 03:20:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_388.jpg': ['2019-11-23 00:00:00', '2019-11-13 00:00:00', '2019-11-03 00:00:00', '2019-11-19 00:00:00', '2019-11-17 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_389.jpg': ['2019-06-12 00:00:00', '2019-11-25 12:36:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-06 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_390.jpg': ['2019-11-07 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_391.jpg': ['2019-11-14 00:00:00', '2019-11-22 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_392.jpg': ['2019-11-25 12:16:00', '2019-11-15 00:00:00', '2019-11-18 00:00:00', '2019-11-09 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_393.jpg': ['2019-11-25 11:55:00', '2019-07-16 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_394.jpg': ['2019-11-08 00:00:00', '2019-11-06 00:00:00', '2019-11-15 00:00:00', '2019-11-01 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_396.jpg': ['2019-11-25 03:04:00', '2019-11-25 03:02:00', '2019-11-03 00:00:00', '2019-11-04 00:00:00', '2019-11-01 00:00:00', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_397.jpg': ['2019-11-25 00:00:00', '2019-11-25 07:49:00']}
+
+{'Receipt_398.jpg': ['2019-11-25 13:15:24', '2019-04-23 00:00:00', '2019-11-01 00:00:00', '2019-11-14 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_4.jpg': ['2019-05-29 00:00:00', '2019-11-25 11:35:09', '2019-11-04 00:00:00', '2019-11-02 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_40.jpg': ['2019-06-19 00:00:00', '2019-11-25 08:41:00', '2019-11-08 00:00:00']}
+
+{'Receipt_400.jpg': ['2019-01-03 00:00:00', '2019-11-24 00:00:00', '2019-11-17 00:00:00', '2019-11-03 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_401.jpg': ['2019-11-20 00:00:00', '2019-07-19 00:00:00', '2019-11-25 09:47:00', '2019-11-05 00:00:00']}
+
+{'Receipt_402.jpg': ['2019-06-25 00:00:00', '2019-11-25 00:59:41', '2019-11-01 00:00:00']}
+
+{'Receipt_403.jpg': ['2019-11-25 08:12:00', '2019-11-08 00:00:00', '2019-11-20 00:00:00', '2019-11-25 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_404.jpg': ['2019-11-12 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00', '2019-06-20 00:00:00', '2019-11-25 08:18:18']}
+
+{'Receipt_405.jpg': ['2019-11-10 00:00:00', '2019-11-25 00:06:00', '2019-11-25 12:59:00', '2019-07-16 00:00:00', '2019-11-01 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_406.jpg': ['2019-11-25 09:33:00', '2019-11-17 00:00:00', '2019-11-20 00:00:00', '2019-11-14 00:00:00', '2019-11-12 00:00:00', '2019-11-13 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_407.jpg': ['2019-11-09 00:00:00', '2019-11-10 00:00:00', '2019-04-07 00:00:00', '2019-11-22 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_408.jpg': ['2019-05-03 00:00:00', '2019-11-25 08:14:00', '2019-11-22 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_409.jpg': ['2019-11-10 00:00:00']}
+
+{'Receipt_41.jpg': ['2019-11-25 08:13:00', '2019-02-01 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_411.jpg': ['2019-07-02 00:00:00', '2019-11-25 03:52:11', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_412.jpg': ['2019-11-12 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_413.jpg': ['2019-01-07 00:00:00', '2019-11-15 00:00:00']}
+
+{'Receipt_414.jpg': ['2019-11-25 00:32:00']}
+
+{'Receipt_416.jpg': ['2019-11-07 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_417.jpg': ['2019-07-18 00:00:00', '2019-07-13 00:00:00']}
+
+{'Receipt_418.jpg': ['2019-06-15 00:00:00', '2019-11-25 08:06:36']}
+
+{'Receipt_419.jpg': ['2019-11-25 06:29:00', '2019-11-12 00:00:00', '2019-11-11 00:00:00', '2019-11-23 00:00:00', '2019-11-06 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_42.jpg': ['2019-05-19 00:00:00', '2019-11-25 04:06:54', '2019-11-04 00:00:00', '2019-11-09 00:00:00', '2019-11-08 00:00:00', '2019-11-02 00:00:00', '2019-11-06 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_420.jpg': ['2019-07-05 00:00:00', '2019-11-12 00:00:00', '2019-11-12 00:00:00', '2019-11-25 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_421.jpg': ['2019-05-27 00:00:00', '2019-11-25 06:40:00', '2019-11-23 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-11-14 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_422.jpg': ['2019-11-02 00:00:00', '2019-11-16 00:00:00', '2019-06-10 00:00:00', '2019-11-25 08:20:00']}
+
+{'Receipt_423.jpg': ['2019-11-02 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_424.jpg': ['2019-11-25 08:38:00', '2019-11-25 09:17:00', '2019-11-07 00:00:00', '2019-11-18 00:00:00', '2019-11-15 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_425.jpg': ['2019-11-25 07:54:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00', '2019-11-02 00:00:00', '2019-11-17 00:00:00', '2019-11-23 00:00:00']}
+
+{'Receipt_426.jpg': ['2019-11-24 00:00:00', '2019-11-12 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_427.jpg': ['2019-06-07 00:00:00', '2019-11-25 10:12:00', '2019-11-05 00:00:00', '2019-11-04 00:00:00', '2019-11-11 00:00:00', '2019-11-10 00:00:00', '2019-11-01 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_428.jpg': ['2019-11-25 04:10:00', '2019-11-06 00:00:00', '2019-11-20 00:00:00', '2019-11-15 00:00:00']}
+
+{'Receipt_429.jpg': ['2019-11-16 00:00:00', '2019-06-23 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_43.jpg': ['2019-11-25 00:00:00']}
+
+{'Receipt_430.jpg': ['2019-06-15 00:00:00', '2019-11-25 11:24:31', '2019-11-07 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_431.jpg': ['2019-11-03 00:00:00', '2019-11-25 08:39:00', '2019-07-13 00:00:00']}
+
+{'Receipt_432.jpg': ['2019-05-20 00:00:00', '2019-11-25 13:47:00']}
+
+{'Receipt_433.jpg': ['2019-11-25 06:38:00', '2019-11-15 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_434.jpg': ['2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00', '2019-06-30 00:00:00']}
+
+{'Receipt_437.jpg': ['2019-11-21 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00', '2019-11-11 00:00:00', '2019-07-03 00:00:00']}
+
+{'Receipt_439.jpg': ['2019-03-02 00:00:00', '2019-11-02 00:00:00', '2019-11-06 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_44.jpg': ['2019-05-18 00:00:00', '2019-11-11 00:00:00', '2019-11-09 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00', '2019-11-15 00:00:00', '2019-11-20 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_440.jpg': ['2019-11-04 00:00:00']}
+
+{'Receipt_442.jpg': ['2019-07-02 00:00:00', '2019-11-25 09:09:37']}
+
+{'Receipt_443.jpg': ['2019-07-20 00:00:00', '2019-11-25 05:53:26']}
+
+{'Receipt_444.jpg': ['2019-11-25 00:00:00', '2019-11-25 09:04:00']}
+
+{'Receipt_445.jpg': ['2019-01-25 00:00:00', '2019-11-08 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_446.jpg': ['2019-11-07 00:00:00', '2019-11-14 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_447.jpg': ['2019-08-12 00:00:00']}
+
+{'Receipt_448.jpg': ['2019-11-25 06:41:51', '2019-11-04 00:00:00']}
+
+{'Receipt_449.jpg': ['2019-06-17 00:00:00']}
+
+{'Receipt_45.jpg': ['2019-11-25 02:00:00', '2019-11-01 00:00:00', '2019-11-12 00:00:00', '2019-11-13 00:00:00', '2019-11-14 00:00:00', '2019-11-20 00:00:00', '2019-11-05 00:00:00', '2019-11-25 02:02:00']}
+
+{'Receipt_450.jpg': ['2019-11-05 00:00:00', '2019-11-05 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_451.jpg': ['2019-11-25 12:13:00', '2019-11-08 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_452.jpg': ['2019-06-06 00:00:00']}
+
+{'Receipt_453.jpg': ['2019-02-01 00:00:00', '2019-03-12 00:00:00', '2019-11-25 12:10:00']}
+
+{'Receipt_454.jpg': ['2019-11-12 00:00:00', '2019-01-25 00:00:00', '2019-11-25 10:02:08', '2019-11-04 00:00:00']}
+
+{'Receipt_455.jpg': ['2019-07-25 00:00:00', '2019-11-25 01:33:00']}
+
+{'Receipt_456.jpg': ['2019-06-01 00:00:00', '2019-11-25 10:38:00']}
+
+{'Receipt_457.jpg': ['2019-11-24 00:00:00']}
+
+{'Receipt_458.jpg': ['2019-11-25 07:42:42', '2019-11-11 00:00:00', '2019-11-12 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_459.jpg': ['2019-04-13 00:00:00']}
+
+{'Receipt_46.jpg': ['2019-10-01 00:00:00', '2019-11-25 13:44:00', '2019-11-13 00:00:00', '2019-11-15 00:00:00', '2019-11-12 00:00:00', '2019-11-06 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_460.jpg': ['2019-01-12 00:00:00', '2019-11-25 01:23:00', '2019-11-05 00:00:00', '2019-11-08 00:00:00', '2019-11-11 00:00:00', '2019-11-12 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_461.jpg': ['2019-11-25 02:01:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_462.jpg': ['2019-11-25 05:51:00', '2019-11-07 00:00:00', '2019-11-05 00:00:00', '2019-11-21 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_463.jpg': ['2019-05-17 00:00:00', '2019-11-25 10:51:21', '2019-05-18 00:00:00', '2019-11-25 10:51:20']}
+
+{'Receipt_464.jpg': ['2019-11-25 00:12:00']}
+
+{'Receipt_465.jpg': ['2019-06-03 00:00:00', '2019-11-25 11:37:00', '2019-11-02 00:00:00']}
+
+{'Receipt_466.jpg': ['2019-11-04 00:00:00', '2019-11-08 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_467.jpg': ['2019-11-02 00:00:00']}
+
+{'Receipt_468.jpg': ['2019-11-02 00:00:00', '2019-11-17 00:00:00', '2019-06-17 00:00:00', '2019-11-25 03:56:00']}
+
+{'Receipt_469.jpg': ['2019-02-23 00:00:00', '2019-11-25 10:23:00', '2019-11-25 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_47.jpg': ['2019-11-25 09:24:00', '2019-11-07 00:00:00', '2019-11-24 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_470.jpg': ['2019-06-24 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_471.jpg': ['2019-06-05 00:00:00', '2019-11-25 01:00:00']}
+
+{'Receipt_472.jpg': ['2019-06-10 00:00:00', '2019-11-25 02:34:00', '2019-11-08 00:00:00', '2019-11-06 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_473.jpg': ['2019-11-06 00:00:00', '2019-11-25 09:22:00', '2019-11-03 00:00:00', '2019-11-09 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_474.jpg': ['2019-11-08 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-06 00:00:00', '2019-11-24 00:00:00', '2019-11-08 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_475.jpg': ['2019-11-11 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_477.jpg': ['2019-05-02 00:00:00', '2019-11-25 07:51:00', '2019-11-21 00:00:00']}
+
+{'Receipt_478.jpg': ['2019-07-25 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_479.jpg': ['2019-11-25 08:07:00', '2019-11-11 00:00:00', '2019-11-13 00:00:00', '2019-11-17 00:00:00', '2019-11-12 00:00:00', '2019-11-04 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_48.jpg': ['2019-08-09 00:00:00', '2019-11-25 04:28:00', '2019-11-12 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_480.jpg': ['2019-11-25 14:02:00', '2019-11-02 00:00:00']}
+
+{'Receipt_481.jpg': ['2019-11-25 04:29:00']}
+
+{'Receipt_482.jpg': ['2019-06-10 00:00:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00', '2019-11-17 00:00:00', '2019-11-13 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_483.jpg': ['2019-11-25 11:44:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_485.jpg': ['2019-11-07 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_486.jpg': ['2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00', '2019-11-04 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_487.jpg': ['2019-11-12 00:00:00', '2019-05-27 00:00:00', '2019-11-25 08:03:00']}
+
+{'Receipt_488.jpg': ['2019-11-24 00:00:00', '2019-11-25 00:00:00', '2019-11-25 10:29:00', '2019-11-04 00:00:00', '2019-11-04 00:00:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_489.jpg': ['2019-08-12 00:00:00', '2019-11-25 08:02:00', '2019-11-07 00:00:00', '2019-11-02 00:00:00', '2019-11-10 00:00:00', '2019-11-10 00:00:00', '2019-11-02 00:00:00', '2019-11-25 00:00:00']}
+
+{'Receipt_49.jpg': ['2019-06-27 00:00:00', '2019-11-25 12:07:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_490.jpg': ['2019-11-07 00:00:00', '2019-11-06 00:00:00', '2019-11-09 00:00:00', '2019-11-05 00:00:00', '2019-11-21 00:00:00', '2019-11-24 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_492.jpg': ['2019-11-25 10:28:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00', '2019-11-08 00:00:00', '2019-11-04 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_493.jpg': ['2019-06-06 00:00:00', '2019-11-11 00:00:00', '2019-11-11 00:00:00', '2019-11-01 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_494.jpg': ['2019-11-02 00:00:00', '2019-11-13 00:00:00', '2019-03-13 00:00:00', '2019-11-25 13:46:00']}
+
+{'Receipt_495.jpg': ['2019-11-02 00:00:00', '2019-11-05 00:00:00', '2019-11-10 00:00:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_496.jpg': ['2019-11-11 00:00:00', '2019-11-01 00:00:00', '2019-11-12 00:00:00', '2019-11-01 00:00:00', '2019-11-14 00:00:00', '2019-11-20 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_497.jpg': ['2019-11-25 07:08:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00', '2019-11-10 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_499.jpg': ['2019-11-25 08:38:16', '2019-11-11 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_5.jpg': ['2019-07-03 00:00:00', '2019-11-25 09:18:00']}
+
+{'Receipt_50.jpg': ['2019-07-29 00:00:00']}
+
+{'Receipt_500.jpg': ['2019-01-02 00:00:00', '2019-11-02 00:00:00', '2019-11-06 00:00:00', '2019-11-07 00:00:00', '2019-11-01 00:00:00', '2019-11-04 00:00:00', '2019-11-22 00:00:00', '2019-11-02 00:00:00', '2019-11-24 00:00:00', '2019-11-04 00:00:00', '2019-11-04 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_502.jpg': ['2019-06-26 00:00:00', '2019-11-25 08:59:00', '2019-11-08 00:00:00', '2019-11-11 00:00:00', '2019-11-09 00:00:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-11-08 00:00:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-11-01 00:00:00', '2019-11-15 00:00:00', '2019-11-07 00:00:00', '2019-11-03 00:00:00', '2019-11-12 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_503.jpg': ['2019-11-25 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_504.jpg': ['2019-11-25 12:59:36', '2019-11-25 00:00:00']}
+
+{'Receipt_506.jpg': ['2019-11-25 01:25:00', '2019-11-12 00:00:00', '2019-11-11 00:00:00', '2019-11-24 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_507.jpg': ['2019-11-05 00:00:00', '2019-11-25 05:31:00']}
+
+{'Receipt_508.jpg': ['2019-11-25 08:38:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_509.jpg': ['2019-11-01 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_51.jpg': ['2019-05-22 00:00:00', '2019-11-13 00:00:00', '2019-11-10 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_511.jpg': ['2019-09-07 00:00:00', '2019-11-17 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_512.jpg': ['2019-07-17 00:00:00', '2019-11-02 00:00:00', '2019-11-15 00:00:00']}
+
+{'Receipt_514.jpg': ['2019-06-23 00:00:00', '2019-11-25 06:37:00']}
+
+{'Receipt_515.jpg': ['2019-05-07 00:00:00', '2019-11-04 00:00:00', '2019-11-02 00:00:00', '2019-11-10 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_516.jpg': ['2019-11-25 10:03:14', '2019-11-20 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-25 00:00:00']}
+
+{'Receipt_517.jpg': ['2019-03-24 00:00:00', '2019-11-25 00:00:00', '2019-11-25 07:14:55', '2019-11-09 00:00:00', '2019-11-12 00:00:00', '2019-11-16 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_518.jpg': ['2019-11-05 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00', '2019-11-02 00:00:00', '2019-11-23 00:00:00', '2019-11-01 00:00:00', '2019-11-25 00:00:00', '2019-11-25 00:00:00']}
+
+{'Receipt_519.jpg': ['2019-06-01 00:00:00', '2019-11-25 12:01:00', '2019-11-06 00:00:00', '2019-01-02 00:00:00', '2019-11-06 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_52.jpg': ['2019-07-19 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_520.jpg': ['2019-06-22 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_521.jpg': ['2019-08-07 00:00:00', '2019-11-01 00:00:00', '2019-11-17 00:00:00']}
+
+{'Receipt_522.jpg': ['2019-11-01 00:00:00', '2019-11-25 00:00:00', '2019-11-08 00:00:00', '2019-11-09 00:00:00', '2019-11-05 00:00:00', '2019-11-22 00:00:00', '2019-11-02 00:00:00', '2019-11-24 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_523.jpg': ['2019-11-25 05:53:48', '2019-11-18 00:00:00', '2019-11-10 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_524.jpg': ['2019-11-10 00:00:00', '2019-11-06 00:00:00', '2019-11-25 12:40:00', '2019-06-27 00:00:00', '2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-09 00:00:00', '2019-11-11 00:00:00']}
+
+{'Receipt_525.jpg': ['2019-11-25 04:55:00', '2019-11-01 00:00:00', '2019-11-08 00:00:00', '2019-11-03 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_526.jpg': ['2019-05-13 00:00:00', '2019-11-25 11:06:04', '2019-11-17 00:00:00', '2019-11-25 12:56:00', '2019-11-08 00:00:00']}
+
+{'Receipt_527.jpg': ['2019-11-15 00:00:00', '2019-11-09 00:00:00', '2019-11-18 00:00:00', '2019-11-25 12:09:06']}
+
+{'Receipt_528.jpg': ['2019-11-07 00:00:00', '2019-11-08 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_529.jpg': ['2019-06-22 00:00:00', '2019-11-06 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_53.jpg': ['2019-11-25 00:00:00', '2019-11-25 01:54:00', '2019-11-05 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_530.jpg': ['2019-05-15 00:00:00', '2019-11-25 02:51:00', '2019-11-08 00:00:00']}
+
+{'Receipt_531.jpg': ['2019-05-28 00:00:00', '2019-11-16 00:00:00', '2019-11-25 12:19:00', '2019-11-04 00:00:00', '2019-11-13 00:00:00', '2019-11-01 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_532.jpg': ['2019-01-02 00:00:00']}
+
+{'Receipt_534.jpg': ['2019-06-03 00:00:00', '2019-11-25 11:45:31', '2019-11-10 00:00:00', '2019-11-03 00:00:00', '2019-11-14 00:00:00', '2019-11-01 00:00:00', '2019-11-15 00:00:00']}
+
+{'Receipt_535.jpg': ['2019-11-01 00:00:00', '2019-11-04 00:00:00', '2019-11-07 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_536.jpg': ['2019-11-14 00:00:00', '2019-06-26 00:00:00', '2019-11-25 13:27:00', '2019-11-12 00:00:00']}
+
+{'Receipt_537.jpg': ['2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-07-12 00:00:00', '2019-11-25 08:54:33', '2019-11-12 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_538.jpg': ['2019-07-13 00:00:00', '2019-11-25 08:49:26']}
+
+{'Receipt_539.jpg': ['2019-06-27 00:00:00', '2019-11-25 12:07:00', '2019-11-02 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_54.jpg': ['2019-07-09 00:00:00', '2019-11-25 10:05:00']}
+
+{'Receipt_541.jpg': ['2019-06-18 00:00:00']}
+
+{'Receipt_543.jpg': ['2019-07-16 00:00:00', '2019-11-25 14:00:00']}
+
+{'Receipt_545.jpg': ['2019-11-09 00:00:00', '2019-11-10 00:00:00', '2019-11-15 00:00:00']}
+
+{'Receipt_546.jpg': ['2019-06-02 00:00:00', '2019-11-25 02:11:00']}
+
+{'Receipt_547.jpg': ['2019-11-25 12:56:00', '2019-11-14 00:00:00', '2019-11-12 00:00:00', '2019-11-10 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_548.jpg': ['2019-04-07 00:00:00', '2019-11-16 00:00:00', '2019-11-10 00:00:00', '2019-11-15 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_549.jpg': ['2019-11-25 04:58:01', '2019-11-09 00:00:00', '2019-01-02 00:00:00']}
+
+{'Receipt_55.jpg': ['2019-07-06 00:00:00', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_550.jpg': ['2019-11-25 06:06:02', '2019-11-20 00:00:00', '2019-11-18 00:00:00', '2019-11-17 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_551.jpg': ['2019-11-25 07:06:00', '2019-11-07 00:00:00', '2019-11-04 00:00:00', '2019-11-15 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_552.jpg': ['2019-07-08 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_553.jpg': ['2019-11-06 00:00:00', '2019-07-25 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_554.jpg': ['2019-11-25 11:47:00', '2019-06-06 00:00:00', '2019-11-06 00:00:00', '2019-06-10 00:00:00', '2019-11-01 00:00:00', '2019-11-25 01:39:00']}
+
+{'Receipt_556.jpg': ['2019-11-25 11:00:11', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_557.jpg': ['2019-11-19 00:00:00', '2019-06-29 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_558.jpg': ['2019-11-16 00:00:00', '2019-11-02 00:00:00', '2019-11-10 00:00:00', '2019-02-28 00:00:00']}
+
+{'Receipt_559.jpg': ['2019-11-02 00:00:00', '2019-11-12 00:00:00', '2019-04-27 00:00:00']}
+
+{'Receipt_56.jpg': ['2019-02-14 00:00:00']}
+
+{'Receipt_561.jpg': ['2019-11-25 10:51:00', '2019-05-21 00:00:00', '2019-11-25 10:51:20']}
+
+{'Receipt_563.jpg': ['2019-11-25 08:30:00', '2019-11-12 00:00:00']}
+
+{'Receipt_564.jpg': ['2019-06-05 00:00:00']}
+
+{'Receipt_565.jpg': ['2019-11-02 00:00:00', '2019-06-24 00:00:00', '2019-11-25 07:56:00']}
+
+{'Receipt_566.jpg': ['2019-06-11 00:00:00', '2019-11-09 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_567.jpg': ['2019-09-30 00:00:00', '2019-11-09 00:00:00', '2019-01-02 00:00:00', '2019-11-14 00:00:00', '2019-11-09 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_568.jpg': ['2019-11-01 00:00:00', '2019-11-05 00:00:00', '2019-11-10 00:00:00', '2019-11-08 00:00:00', '2019-11-04 00:00:00', '2019-01-02 00:00:00', '2019-11-01 00:00:00', '2019-11-25 12:41:00']}
+
+{'Receipt_57.jpg': ['2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_570.jpg': ['2019-06-17 00:00:00', '2019-11-25 12:35:00', '2019-11-04 00:00:00']}
+
+{'Receipt_572.jpg': ['2019-05-06 00:00:00', '2019-11-25 12:24:53', '2019-11-02 00:00:00', '2019-11-01 00:00:00', '2019-11-11 00:00:00', '2019-11-15 00:00:00', '2019-11-01 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_573.jpg': ['2019-05-29 00:00:00', '2019-11-25 05:06:26', '2019-11-24 00:00:00', '2019-11-10 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_574.jpg': ['2019-11-25 03:42:00', '2019-11-18 00:00:00', '2019-11-13 00:00:00', '2019-11-02 00:00:00', '2019-11-04 00:00:00', '2019-11-03 00:00:00', '2019-11-05 00:00:00', '2019-11-07 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_575.jpg': ['2019-02-16 00:00:00', '2019-11-04 00:00:00', '2019-11-04 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_576.jpg': ['2019-05-17 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_577.jpg': ['2019-01-02 00:00:00', '2019-11-08 00:00:00', '2019-11-07 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_578.jpg': ['2019-08-25 00:00:00', '2019-11-16 00:00:00', '2019-11-13 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_579.jpg': ['2019-04-28 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_58.jpg': ['2019-11-25 12:37:00', '2019-11-13 00:00:00', '2019-11-07 00:00:00']}
+
+{'Receipt_580.jpg': ['2019-04-04 00:00:00', '2019-11-17 00:00:00', '2019-11-11 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_581.jpg': ['2019-06-07 00:00:00']}
+
+{'Receipt_582.jpg': ['2019-06-16 00:00:00', '2019-11-04 00:00:00']}
+
+{'Receipt_583.jpg': ['2019-06-25 00:00:00', '2019-11-02 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_584.jpg': ['2019-11-10 00:00:00', '2019-11-25 00:00:00', '2019-11-25 12:34:00', '2019-11-11 00:00:00', '2019-01-02 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_586.jpg': ['2019-01-11 00:00:00', '2019-11-25 12:46:00', '2019-11-08 00:00:00', '2019-11-19 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_587.jpg': ['2019-11-01 00:00:00']}
+
+{'Receipt_588.jpg': ['2019-11-04 00:00:00', '2019-11-08 00:00:00', '2019-11-12 00:00:00']}
+
+{'Receipt_589.jpg': ['2019-11-22 00:00:00', '2019-11-25 06:14:00']}
+
+{'Receipt_590.jpg': ['2019-05-31 00:00:00', '2019-11-14 00:00:00']}
+
+{'Receipt_591.jpg': ['2019-11-01 00:00:00', '2019-11-22 00:00:00', '2019-11-20 00:00:00', '2019-11-02 00:00:00', '2019-11-15 00:00:00', '2019-11-06 00:00:00', '2019-11-13 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_592.jpg': ['2019-11-14 00:00:00', '2019-11-18 00:00:00']}
+
+{'Receipt_593.jpg': ['2019-11-16 00:00:00']}
+
+{'Receipt_594.jpg': ['2019-11-12 00:00:00', '2019-01-03 00:00:00', '2019-11-25 07:41:00']}
+
+{'Receipt_6.jpg': ['2019-11-05 00:00:00', '2019-11-09 00:00:00', '2019-11-12 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_60.jpg': ['2019-06-24 00:00:00', '2019-11-25 14:10:50', '2019-11-10 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_61.jpg': ['2019-06-06 00:00:00', '2019-11-25 02:17:00', '2019-11-04 00:00:00', '2019-11-25 12:17:00']}
+
+{'Receipt_63.jpg': ['2019-11-08 00:00:00', '2019-11-21 00:00:00']}
+
+{'Receipt_66.jpg': ['2019-11-25 07:40:22', '2019-11-06 00:00:00', '2019-11-09 00:00:00', '2019-11-18 00:00:00', '2019-11-22 00:00:00', '2019-11-07 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_67.jpg': ['2019-06-01 00:00:00', '2019-11-25 11:10:00', '2019-11-12 00:00:00', '2019-11-04 00:00:00', '2019-11-20 00:00:00', '2019-11-17 00:00:00', '2019-11-01 00:00:00', '2019-11-18 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_68.jpg': ['2019-06-26 00:00:00', '2019-11-25 07:05:00']}
+
+{'Receipt_69.jpg': ['2019-11-02 00:00:00', '2019-11-11 00:00:00', '2019-11-09 00:00:00']}
+
+{'Receipt_70.jpg': ['2019-06-14 00:00:00', '2019-11-25 11:53:29', '2019-11-15 00:00:00']}
+
+{'Receipt_72.jpg': ['2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-11-07 00:00:00', '2019-11-08 00:00:00', '2019-11-08 00:00:00']}
+
+{'Receipt_73.jpg': ['2019-11-07 00:00:00', '2019-11-09 00:00:00', '2019-11-09 00:00:00', '2019-07-19 00:00:00', '2019-11-07 00:00:00', '2019-11-25 08:54:00']}
+
+{'Receipt_74.jpg': ['2019-04-08 00:00:00', '2019-11-25 12:01:40', '2019-11-02 00:00:00', '2019-11-25 00:00:00', '2019-11-10 00:00:00', '2019-11-11 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_75.jpg': ['2019-11-07 00:00:00', '2019-11-02 00:00:00', '2019-11-17 00:00:00', '2019-07-01 00:00:00', '2019-11-25 11:45:00']}
+
+{'Receipt_77.jpg': ['2019-11-08 00:00:00', '2019-11-02 00:00:00', '2019-11-20 00:00:00']}
+
+{'Receipt_78.jpg': ['2019-11-25 05:25:00', '2019-06-29 00:00:00', '2019-11-11 00:00:00', '2019-11-19 00:00:00', '2019-03-05 00:00:00', '2019-11-07 00:00:00', '2019-06-10 00:00:00', '2019-11-10 00:00:00']}
+
+{'Receipt_8.jpg': ['2019-07-01 00:00:00', '2019-11-11 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_81.jpg': ['2019-03-18 00:00:00', '2019-11-25 10:54:00', '2019-11-22 00:00:00', '2019-11-02 00:00:00', '2019-11-10 00:00:00', '2019-11-05 00:00:00']}
+
+{'Receipt_82.jpg': ['2019-07-24 00:00:00', '2019-11-01 00:00:00', '2019-11-02 00:00:00', '2019-11-03 00:00:00', '2019-11-06 00:00:00']}
+
+{'Receipt_83.jpg': ['2019-11-14 00:00:00', '2019-11-12 00:00:00', '2019-11-20 00:00:00', '2019-11-24 00:00:00']}
+
+{'Receipt_84.jpg': ['2019-11-03 00:00:00', '2019-11-04 00:00:00', '2019-11-25 12:53:10']}
+
+{'Receipt_85.jpg': ['2019-06-29 00:00:00', '2019-11-25 06:45:00']}
+
+{'Receipt_86.jpg': ['2019-06-21 00:00:00']}
+
+{'Receipt_87.jpg': ['2019-05-17 00:00:00', '2019-11-12 00:00:00', '2019-11-24 00:00:00', '2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_88.jpg': ['2019-11-05 00:00:00', '2019-07-01 00:00:00', '2019-11-25 12:31:00', '2019-11-11 00:00:00', '2019-11-02 00:00:00']}
+
+{'Receipt_89.jpg': ['2019-07-11 00:00:00']}
+
+{'Receipt_9.jpg': ['2019-05-22 00:00:00']}
+
+{'Receipt_90.jpg': ['2019-11-01 00:00:00']}
+
+{'Receipt_92.jpg': ['2019-11-03 00:00:00', '2019-11-03 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00', '2019-11-01 00:00:00']}
+
+{'Receipt_93.jpg': ['2019-11-02 00:00:00', '2019-11-17 00:00:00', '2019-11-25 00:00:00', '2019-11-13 00:00:00', '2019-11-05 00:00:00', '2019-04-25 00:00:00', '2019-11-13 00:00:00']}
+
+{'Receipt_94.jpg': ['2019-11-25 09:18:00', '2019-07-02 00:00:00', '2019-11-25 08:25:00', '2019-11-07 00:00:00']}
+
+{'Receipt_95.jpg': ['2019-11-25 12:01:45', '2019-06-15 00:00:00', '2019-11-03 00:00:00']}
+
+{'Receipt_96.jpg': ['2019-11-25 00:00:00']}
+
+{'Receipt_97.jpg': ['2019-11-16 00:00:00', '2019-07-02 00:00:00', '2019-11-25 10:40:29']}
+
+{'Receipt_98.jpg': ['2019-11-03 00:00:00', '2019-11-02 00:00:00', '2019-11-07 00:00:00', '2019-11-01 00:00:00', '2019-11-16 00:00:00']}
+
+{'Receipt_99.jpg': ['2019-07-18 00:00:00', '2019-11-25 05:06:00', '2019-11-09 00:00:00', '2019-11-09 00:00:00', '2019-11-10 00:00:00', '2019-11-10 00:00:00']}
+
+
+Files that is not contails any which api recognized
+
+Receipt_106.jpg
+
+Receipt_109.jpg
+
+Receipt_11.jpg
+
+Receipt_110.jpg
+
+Receipt_112.jpg
+
+Receipt_113.jpg
+
+Receipt_114.jpg
+
+Receipt_115.jpg
+
+Receipt_117.jpg
+
+Receipt_126.jpg
+
+Receipt_13.jpg
+
+Receipt_141.jpg
+
+Receipt_148.jpg
+
+Receipt_153.jpg
+
+Receipt_158.jpg
+
+Receipt_160.jpg
+
+Receipt_161.jpg
+
+Receipt_170.jpg
+
+Receipt_174.jpg
+
+Receipt_175.jpg
+
+Receipt_183.jpg
+
+Receipt_186.jpg
+
+Receipt_189.jpg
+
+Receipt_191.jpg
+
+Receipt_194.jpg
+
+Receipt_196.jpg
+
+Receipt_197.jpg
+
+Receipt_199.jpg
+
+Receipt_20.jpg
+
+Receipt_201.jpg
+
+Receipt_205.jpg
+
+Receipt_214.jpg
+
+Receipt_216.jpg
+
+Receipt_22.jpg
+
+Receipt_223.jpg
+
+Receipt_23.jpg
+
+Receipt_230.jpg
+
+Receipt_231.jpg
+
+Receipt_233.jpg
+
+Receipt_240.jpg
+
+Receipt_241.jpg
+
+Receipt_251.jpg
+
+Receipt_256.jpg
+
+Receipt_26.jpg
+
+Receipt_262.jpg
+
+Receipt_274.jpg
+
+Receipt_28.jpg
+
+Receipt_281.jpg
+
+Receipt_283.jpg
+
+Receipt_288.jpg
+
+Receipt_291.jpg
+
+Receipt_30.jpg
+
+Receipt_300.jpg
+
+Receipt_308.jpg
+
+Receipt_321.jpg
+
+Receipt_323.jpg
+
+Receipt_33.jpg
+
+Receipt_341.jpg
+
+Receipt_360.jpg
+
+Receipt_366.jpg
+
+Receipt_368.jpg
+
+Receipt_370.jpg
+
+Receipt_39.jpg
+
+Receipt_395.jpg
+
+Receipt_399.jpg
+
+Receipt_410.jpg
+
+Receipt_415.jpg
+
+Receipt_435.jpg
+
+Receipt_436.jpg
+
+Receipt_438.jpg
+
+Receipt_441.jpg
+
+Receipt_476.jpg
+
+Receipt_484.jpg
+
+Receipt_491.jpg
+
+Receipt_498.jpg
+
+Receipt_501.jpg
+
+Receipt_505.jpg
+
+Receipt_510.jpg
+
+Receipt_513.jpg
+
+Receipt_533.jpg
+
+Receipt_540.jpg
+
+Receipt_542.jpg
+
+Receipt_544.jpg
+
+Receipt_555.jpg
+
+Receipt_560.jpg
+
+Receipt_562.jpg
+
+Receipt_569.jpg
+
+Receipt_571.jpg
+
+Receipt_585.jpg
+
+Receipt_59.jpg
+
+Receipt_62.jpg
+
+Receipt_64.jpg
+
+Receipt_65.jpg
+
+Receipt_7.jpg
+
+Receipt_71.jpg
+
+Receipt_76.jpg
+
+Receipt_79.jpg
+
+Receipt_80.jpg
+
+Receipt_91.jpg
+
+
+Dated Bills=  496
+Total Bills=  595
+Accuracy=  83.36134453781513
+--- 3472.548496723175 seconds ---
+
+C:\python>
